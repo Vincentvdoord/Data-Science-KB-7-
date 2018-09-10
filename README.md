@@ -18,7 +18,7 @@ Vanaf dag1 is er gewerkt aan de datacamp courses.
 
 ## Sprint1 (week 1 en 2)
 
-![]https://imgur.com/a/5eZoH5Y.jpg)
+![](https://imgur.com/a/5eZoH5Y.jpg)
 
 ## Sprint2 (week 3 en 4)
 ## Sprint3 (week 5 en 6)
