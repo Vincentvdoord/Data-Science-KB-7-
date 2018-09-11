@@ -1,7 +1,7 @@
 # DataScience (KB-74)
 Welkom!
 
-Dit is het Githup portfolio van Vincent van den Oord. Hierin zal per sprint gereflecteerd/gedocumenteerd worden. De focus 
+Dit is het Github portfolio van Vincent van den Oord. Hierin zal per sprint gereflecteerd/gedocumenteerd worden. De focus 
 hierbij ligt bij mij zelf, wat was mijn bijdrage en wat heb ik geleerd. 
 
 ## Persoonlijke leerdoelen
