@@ -19,14 +19,18 @@ In sprint 1, die liep van 27-08-2018 tot 07-09-2018, ben ik vooral bezig geweest
 Na een aantal dagen hebben we een voorbeeld van de data verkregen. Dit was data in de vorm van 107 rijen x 30 kolommen. Zonder kolom headers of uitleg bij de data dienen wij als groep dit te ontcijferen. Ook heb ik wat wiskunde uitleg mogen ontvangen van mijn groepsgenoten betreft rotatiematrixen en euler hoeken. Daardoor werd de complexiteit van de data duidelijk. We hebben gespart over de aanpak. Aan het einde van deze sprint is de context duidelijk en de aanpak helder geworden.
 
 Leerpunten: Python geoefent, een feeling gekregen bij de python packages (Pandas, Seaborn, Numpy, Matplotlib)
+
 ## Sprint2 (week 3 en 4)
 Na de eerste sprint waar voor mij de focus het meest lag op DataCamp is er een streak van 14 dagen ontstaan. Voor de komende 
 18 weken ik proberen om deze streak zo lang mogelijk te behouden. Daarnaast loop ik goed op schema betreft de courses.
 
-![](https://i.imgur.com/7gz2IMp.jpg)
+<img src="https://i.imgur.com/7gz2IMp.jpg" alt="alt text" width="550" height="170">
 
 Ik heb samen met Kasper deze afbeelding gemaakt voor de groep. Waarbij we de data begrijpelijk proberen te maken. 
-![](https://i.imgur.com/IBdwBCE.jpg)
+
+<img src="https://i.imgur.com/IBdwBCE.jpg" alt="alt text" width="550" height="550">
+
+
 De sensoren met haar nummers zijn aangegeven in de afbeelding. Ook de latijnse namen die gebruikt worden door de artsen met vertaling staan erin. Met een ster aangegeven staan de gegevens die berekend worden en enkel te zien is in de gecleande data.
 
 Leerpunten: latijnse namen geleerd voor de relevante botten
