@@ -26,15 +26,20 @@ Na de eerste sprint waar voor mij de focus het meest lag op DataCamp is er een s
 
 <img src="https://i.imgur.com/7gz2IMp.jpg" alt="alt text" width="550" height="170">
 
+Naast DataCamp, ben ik begonnen met de Coursera course om machinelearning te leren. Ik heb de introductie en week1 afgerond. Ik heb veel tijd laten liggen hier omdat ik het niet snapte vanwege de notatie die gebruikt wordt als ze hadden gezegt dat het simpelweg y= ax + b was kon ik er zo doorheen gaan omdat ik dat al had gehad op de middelbareschool. Ik neem dit mee in de verdere opdrachten van coursera.
+
 Ik heb samen met Kasper deze afbeelding gemaakt voor de groep. Waarbij we de data begrijpelijk proberen te maken. 
 
 <img src="https://i.imgur.com/IBdwBCE.jpg" alt="alt text" width="550" height="550">
-
 
 De sensoren met haar nummers zijn aangegeven in de afbeelding. Ook de latijnse namen die gebruikt worden door de artsen met vertaling staan erin. Met een ster aangegeven staan de gegevens die berekend worden en enkel te zien is in de gecleande data.
 
 Leerpunten: latijnse namen geleerd voor de relevante botten
 ## Sprint3 (week 5 en 6)
+Na de tweedesprint waar voor mij de focus het meest lag op DataCamp is er een streak van 14 dagen ontstaan. Voor de komende 18 weken ik proberen om deze streak zo lang mogelijk te behouden. Daarnaast loop ik goed op schema betreft de courses.
+
+<img src="https://i.imgur.com/PqDiPhG.jpg" alt="alt text" width="550" height="170">
+
 ## Sprint4 (week 7 en 8)
 ## Sprint5 (week 9 en 10)
 ## Sprint6 (week 10 en 11)
