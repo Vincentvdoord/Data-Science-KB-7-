@@ -40,7 +40,12 @@ Na de tweedesprint waar voor mij de focus het meest lag op DataCamp is er een st
 
 <img src="https://i.imgur.com/PqDiPhG.jpg" alt="alt text" width="550" height="170">
 
+
 ## Sprint4 (week 7 en 8)
+Ik hou het nog steeds vol om iedere dag Datacamp te doen. 42 daagse streak. Ik pak ook steeds meer taken op betreft het programmeren met de echte data.
+
+
+Deze sprint hebben we de eerste classifier
 ## Sprint5 (week 9 en 10)
 ## Sprint6 (week 10 en 11)
 ## Sprint7 (week 12 en 13)
