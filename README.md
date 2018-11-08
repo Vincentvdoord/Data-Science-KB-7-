@@ -1,5 +1,5 @@
 # DataScience (KB-74)
-Dit is het Github portfolio van Vincent van den Oord. Hierin zal gereflecteerd/gedocumenteerd worden. De focus 
+Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gereflecteerd/gedocumenteerd worden. De focus 
 hierbij ligt bij mij zelf, wat was mijn bijdrage aan het project en wat heb ik geleerd. 
 
 ## Keuze onderbouwing
@@ -7,11 +7,16 @@ Ik volg de opleiding ICT (Business IT & Mangement) op de Haagse Hogeschool in De
 
 ### Persoonlijke leerdoelen
 De reden dat ik gekozen heb voor deze minor is omdat ik nieuwe dingen wilde leren. Onderstaand mijn persoonlijke leerdoelen voor de komende 20 weken.
- 1. Het leren programmeren in dit geval in Python
+ 1. Het leren programmeren in Python
  2. Ervaring krijgen met het verwerken van 'Big Data'
  3. De basis van Machine Learning begrijpen/toepassen
  4. Meer technische kennis verkrijgen
 
+## Intro
+`CHECK` Ortho Eyes opdracht omschrijving
+
 ## Datacamp
+Binnen de gestelde tijd zijn alle noodzakelijke Datacamp courses afgerond. 
+<img src="https://i.imgur.com/izapVDF.png" alt="alt text">
 
 ## Coursera
