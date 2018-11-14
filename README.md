@@ -36,7 +36,8 @@ Om mijn persoonlijke doel 3 (De basis van Machine Learning begrijpen/toepassen) 
 
 
 
-
+## Presentaties
+Iedere vrijdag dient er gepresenteerd te worden. Ik heb meegeholpen aan het maken van elke presentatie, behalve die van week8. De weken dat ik daadwerkelijk gepresenteerd heb is week 9 en week 3.
 
 
 
