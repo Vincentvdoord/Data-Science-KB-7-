@@ -41,7 +41,10 @@ De huidige weken hebben we de classifiers vooral gemaakt met als parameter de sy
 Aan het eind van deze sprint kwamen wij erachter dat we de data al weken lang verkeerd splitsen. Wij splitsen de data op sample niveau waar je eigenlijk uit elke meting een aantal samples haalt. Terwijl de goede manier is om een aantal patienten uit te halen. Daardoor zijn alle analyses die we hebben gedaan onjuist.
 
 ## Sprint6 (week 10 en 11)
-De nieuwe sprint deze week
+Er is een aanzienlijke achterstand ontstaan op het gebied van de tutorials (spark, exploratory data analysis) en coursera. Deze achterstanden dienen ingehaald te worden zeker met oog op de toets. Er is binnen de proejctgroep collectief besloten om daar 3 dagen voor uit te trekken.
+
+
+
 ## Sprint7 (week 12 en 13)
 ## Sprint8 (week 14 en 15)
 ## Sprint9 (week 16 en 17)
