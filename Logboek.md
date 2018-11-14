@@ -28,6 +28,7 @@ Na de tweedesprint waar voor mij de focus het meest lag op DataCamp is er een st
 
 <img src="https://i.imgur.com/PqDiPhG.jpg" alt="alt text" width="550" height="170">
 
+Deze sprint hebben we een afspraak met J. de Groot gehad waarin we eindelijk gezien hebben hoe de data gegenereerd wordt. Uit onze groep heeft Kasper gefungureerd als testpersoon hij kreeg alle sensoren op zijn lichaam geplakt en we hebben een meting gedaan zoals dat werkelijk in de praktijk gaat. Na afloop hebben we deze data mogen ontvangen. 
 
 ## Sprint4 (week 7 en 8)
 Ik hou het nog steeds vol om iedere dag Datacamp te doen. 42 daagse streak. Ik pak ook steeds meer taken op betreft het programmeren met de echte data.
@@ -35,9 +36,14 @@ Ik hou het nog steeds vol om iedere dag Datacamp te doen. 42 daagse streak. Ik p
 
 Deze sprint hebben we de eerste classifier
 ## Sprint5 (week 9 en 10)
+De huidige weken hebben we de classifiers vooral gemaakt met als parameter de symmetrie tussen beide armen. Ik had het idee om eens te kijken naar de maximale waarden, met als achterliggende gedachte dat patienten die wat mankeerde minder ver hun armen konden optillen dan patienten die niks mankeerde. 
+
+Aan het eind van deze sprint kwamen wij erachter dat we de data al weken lang verkeerd splitsen. Wij splitsen de data op sample niveau waar je eigenlijk uit elke meting een aantal samples haalt. Terwijl de goede manier is om een aantal patienten uit te halen. Daardoor zijn alle analyses die we hebben gedaan onjuist.
+
 ## Sprint6 (week 10 en 11)
+De nieuwe sprint deze week
 ## Sprint7 (week 12 en 13)
 ## Sprint8 (week 14 en 15)
 ## Sprint9 (week 16 en 17)
 ## Sprint10 (week 18 en 19)
-## Sprint11 (week 3 en 4)
+
