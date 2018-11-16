@@ -16,7 +16,7 @@ De reden dat ik gekozen heb voor deze minor is omdat ik nieuwe dingen wilde lere
  3. De basis van Machine Learning begrijpen/toepassen
  4. Meer technische kennis verkrijgen
 
-## 1. Intro Ortho Eyez
+## 1. Intro Ortho Eyes
 `CHECK` Ortho Eyes opdracht omschrijving
 
 ## 2. Datacamp
