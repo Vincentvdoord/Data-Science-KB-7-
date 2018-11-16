@@ -18,24 +18,23 @@ De reden dat ik gekozen heb voor deze minor is omdat ik nieuwe dingen wilde lere
 
 ## 1. Intro Ortho Eyes
 `CHECK` Ortho Eyes opdracht omschrijving
-
-## 2. Datacamp
+## 2.0 Persoonlijke ontwikkeling 
+### 2.1 Datacamp
 Om mijn persoonlijke doel 1 (Het leren programmeren in Python) te behalen is er vanaf dag 1 fanatiek gewerkt aan Datacamp. Binnen de gestelde tijd zijn alle noodzakelijke Datacamp courses afgerond.
 
 <img src="https://i.imgur.com/izapVDF.png" alt="alt text">
 
 Naast de noodzakelijke Datacamp courses zijn er ook een aantal extra courses/chapters gemaakt. Omdat ik het niet over mijn hart kon krijgen om een course voor de helft te maken (wat voldoende zou zijn). 
 
-## 3. Coursera
+### 2.2 Coursera
 Om mijn persoonlijke doel 3 (De basis van Machine Learning begrijpen/toepassen) te behalen worden de Coursera courses gevolgt. 
 
-## 4. Exploratory data analysis
-
-## 5. Spark tuturial 
-
-## 6. 
+### 2.3 Exploratory data analysis
 
 
+### 2.4 
+
+## 3.0 Gedurend het project
 
 
 ## Presentaties
