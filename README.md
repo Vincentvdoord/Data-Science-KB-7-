@@ -42,7 +42,7 @@ Om mijn persoonlijke doel 3 (De basis van Machine Learning begrijpen/toepassen) 
 Tijdens ons project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 10 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
 
 ## 3.0 Gedurend het project
-
+In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het project of waar ik een bijdrage aan gelevert heb. 
 
 ## Presentaties
 Iedere vrijdag dient er gepresenteerd te worden. Ik heb meegeholpen aan het maken van elke presentatie, behalve die van week8. De weken dat ik daadwerkelijk gepresenteerd heb is week 3/6/11/16*
@@ -52,7 +52,7 @@ Deze heb ik onverwachts moeten opvangen in het kader van ziekte/afwezigheid.
 
 
 
-## Reflectie
+## 4.0 Reflectie
 Als ik terug kijk op de afgelopen 20 weken is de tijd snel gegaan. In het begin had ik nog enige twijfel bij deze minor. Dat kwam voornamelijk door het programmeer werk. Achteraf bleek dat de wiskunde erachter ingewikkelder was dan het programmeren zelf. 
 
 Om terug te komen op de persoonlijke leerdoelen
