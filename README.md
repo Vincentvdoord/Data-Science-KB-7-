@@ -38,7 +38,8 @@ Om mijn persoonlijke doel 3 (De basis van Machine Learning begrijpen/toepassen) 
 ### 2.3 Exploratory data analysis
 
 
-### 2.4 
+### 2.4 Spark Assignments
+Tijdens ons project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 10 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
 
 ## 3.0 Gedurend het project
 
