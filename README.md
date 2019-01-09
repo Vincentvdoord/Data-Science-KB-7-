@@ -1,6 +1,6 @@
 # DataScience (KB-74)
 Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gereflecteerd/gedocumenteerd worden. De focus 
-hierbij ligt bij mij zelf, wat was mijn bijdrage aan het project en wat heb ik geleerd. 
+hierbij ligt bij mij zelf, wat was mijn bijdrage aan het project en belangrijk: wat heb ik geleerd/ervaren. 
 
 **Keuze onderbouwing**
 
@@ -17,7 +17,13 @@ De reden dat ik gekozen heb voor deze minor is omdat ik nieuwe dingen wilde lere
  4. Meer technische kennis verkrijgen
 
 ## 1. Intro Ortho Eyes
-`CHECK` Ortho Eyes opdracht omschrijving
+Voordat specialisten een diagnose kunnen stellen bij een patient moeten de patienten in de praktijk meerdere oefeningeng uit te voeren om de conditie van de schouder te kunnen achter te halen. Als projectgroep willen wij onderzoeken of het mogelijk is om een diagnose te stellen op basis van de gegenereerde data. 
+
+De data die beschikbaar is, is van echte patienten. Deze patienten hebben 1 of meerdere oefeningen uitgevoerd. Als projectgroep hebben wij deze data ontvangen en geanalyseerd.
+
+
+
+
 ## 2.0 Persoonlijke ontwikkeling 
 ### 2.1 Datacamp
 Om mijn persoonlijke doel 1 (Het leren programmeren in Python) te behalen is er vanaf dag 1 fanatiek gewerkt aan Datacamp. Binnen de gestelde tijd zijn alle noodzakelijke Datacamp courses afgerond.
@@ -38,9 +44,24 @@ Om mijn persoonlijke doel 3 (De basis van Machine Learning begrijpen/toepassen) 
 
 
 ## Presentaties
-Iedere vrijdag dient er gepresenteerd te worden. Ik heb meegeholpen aan het maken van elke presentatie, behalve die van week8. De weken dat ik daadwerkelijk gepresenteerd heb is week 9 en week 3.
+Iedere vrijdag dient er gepresenteerd te worden. Ik heb meegeholpen aan het maken van elke presentatie, behalve die van week8. De weken dat ik daadwerkelijk gepresenteerd heb is week 3/6/11/16*
+
+Deze heb ik onverwachts moeten opvangen in het kader van ziekte/afwezigheid. 
 
 
 
 
 ## Reflectie
+Als ik terug kijk op de afgelopen 20 weken is de tijd snel gegaan. In het begin had ik nog enige twijfel bij deze minor. Dat kwam voornamelijk door het programmeer werk. Achteraf bleek dat de wiskunde erachter ingewikkelder was dan het programmeren zelf. 
+
+Om terug te komen op de persoonlijke leerdoelen
+### 1. Het leren programmeren in Python
+Dit doel heb ik naar mijn idee naar behoren gehaald. Het is niet dat ik de snelste/beste Python programmeur ben, maar als eerste programmeertaal waar ik kennis van heb mogen nemen kan ik data inlezen bewerken en analyseren.
+
+### 2. Ervaring krijgen met het verwerken van 'Big Data'
+Wat ik hier voornamelijk van heb geleerd is dat het ingewikkelder is dan het lijkt. Met 'verwerken' bedoelde ik van nietzeggende data naar informatie. Ons gehele project stond daar in het kader van en ook dit doel is gehaald.
+
+### 3. De basis van Machine Learning begrijpen/toepassen
+De basis van machine learning was vanaf dag 1 lastig voor mij, laat staan het toepassen. Maar vlak voor de toets toen ik ervoor ging zitten zag ik het licht. Als ik het nog een keer over zou doen zal ik eerder in het traject de tijd nemen om dit te snappen dat zal veel tijd/stress besparen.
+### 4. Meer technische kennis verkrijgen
+Als programmeren/jupyter servers/machine learning valt onder technische kennis dan is het zeker gelukt om mijn kennis te verbreden.
