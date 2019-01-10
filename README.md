@@ -3,7 +3,7 @@ Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gere
 hierbij ligt bij mij zelf, wat was mijn bijdrage aan het project en belangrijk: wat heb ik geleerd/ervaren. 
 
 ## Portfolio Indeling
-- [Intro Ortho Eyes](#.-intro-ortho-eyes)
+- [1. Intro Ortho Eyes](#1-intro-ortho-eyes)
   - [DataCamp](#datacamp)
   - [Coursera](#coursera)
   - [Exploratory Data Analysis](#exploratory-data-analysis)
