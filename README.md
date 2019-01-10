@@ -5,9 +5,9 @@ hierbij ligt bij mij zelf, wat was mijn bijdrage aan het project en belangrijk: 
 ## Portfolio Indeling
 - [1. Intro Ortho Eyes](#1-intro-ortho-eyes)
 - [2.0 Persoonlijke ontwikkeling](#20-persoonlijke-ontwikkeling)
-  - [2.1 DataCamp](#2-1-datacamp)
-  - [2.2 Coursera](#2-2-coursera)
-  - [2.3 Spark Assignments](#2-3-spark-assignments)
+  - [2.1 DataCamp](#21-datacamp)
+  - [2.2 Coursera](#22-coursera)
+  - [2.3 Spark Assignments](#23-spark-assignments)
 - [Tijdens het project](#tijdens-het-project)
 - [Reflectie](#reflectie)
 
