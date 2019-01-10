@@ -29,6 +29,9 @@ De reden dat ik gekozen heb voor deze minor is omdat ik nieuwe dingen wilde lere
  **Mijn rol binnen het project**
 Hier iets typen over mijn eigen rol
 
+ **Trello**
+ 
+
 ## 1. Intro Ortho Eyes
 Voordat specialisten een diagnose kunnen stellen bij een patient moeten de patienten in de praktijk meerdere oefeningeng uit te voeren om de conditie van de schouder te kunnen achter te halen. Als projectgroep willen wij onderzoeken of het mogelijk is om een diagnose te stellen op basis van de gegenereerde data. 
 
@@ -53,21 +56,21 @@ Week 6 [Advice for Applying Machine Learning](AFBEELDING LINK)
 
 ### 2.3 Spark Assignments
 Tijdens ons project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 10 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
-## Jargon
 
-Tijdens ons onderzoek hebben we met termen gebruikt die eigenlijk alleen maar begrepen kunnen worden door ons project team, maar deze zullen wel in dit portfolio terugkomen. Daarom zullen ze hieronder worden toegelicht.
+## Jargon
+Tijdens ons onderzoek heb ik veel we met termen gebruikt die eigenlijk alleen maar begrepen kunnen worden door ons project team, maar deze zullen wel in dit portfolio terugkomen. Daarom zullen ze hieronder worden toegelicht.
 
 jargon	Explenation
 Raw data / Ruwe data	Ruwe sensor data met locatie en rotatie van de sensoren
 Cleaned data / Schone data	Cleaned data zijn de door LUMC verwerkte ruwe data, in deze data zijn alle locaties weg is alle data relatief van elkaar weergegeven d.m.v. hoeken
 Super cleaned data / Super schone data	De super cleaned data is de door ons schoon gemaakte cleaned data, dit proces is later beschreven
 
-Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch gebied, deze zijn hieronder te zien. Dit plaatje is gemaakt door Vincent
+Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch gebied, deze zijn hieronder te zien. Dit plaatje heb ik zelf gemaakt.
+
+<img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Ortho%20eyes.jpg" alt="alt text">
 
 ## 3.0 Gedurend het project
 In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het project of waar ik een bijdrage aan gelevert heb. Tijdens het project heb ik zoveel mogelijk verschillende werkzaamheden uitgevoerd om zo mijn kennis te verbreden. 
-
-
 
 ### Classifiers
 ### Cleanen Data
@@ -76,12 +79,11 @@ Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschoo
 
 Dit is een impressie van onze 'presentatie' bij de CvB-borrel.
 <img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/cvb-borrel.jpg?raw=true">
+
 ## Presentaties
 Iedere vrijdag dient er gepresenteerd te worden. Ik heb meegeholpen aan het maken van elke presentatie, behalve die van week8. De weken dat ik daadwerkelijk gepresenteerd heb is week 3/6/11/16*
 
 Deze heb ik onverwachts moeten opvangen in het kader van ziekte/afwezigheid. 
-
-
 
 
 ## 4.0 Reflectie
