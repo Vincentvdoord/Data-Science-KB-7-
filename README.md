@@ -2,6 +2,25 @@
 Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gereflecteerd/gedocumenteerd worden. De focus 
 hierbij ligt bij mij zelf, wat was mijn bijdrage aan het project en belangrijk: wat heb ik geleerd/ervaren. 
 
+## Portfolio Indeling
+- [Intro Ortho Eyes](#1.-Intro-Ortho-Eyes)
+  - [DataCamp](#datacamp)
+  - [Coursera](#coursera)
+  - [Exploratory Data Analysis](#exploratory-data-analysis)
+  - [Spark Assignments](#spark-assignments)
+- [Tijdens het project](#tijdens-het-project)
+  - [Kennis over domein](#kennis-over-domein)
+  - [Gebouwde modellen](#gebouwde-modellen)
+  - [Voorbereiden data](#voorbereiden-data)
+  - [Visualisatie data](#visualisatie-data)
+  - [Verzamelen data](#verzamelen-data)
+- [Overig](#overig)
+  - [Presentaties](#presentaties)
+  - [Bijdrage aan paper](#bijdrage-aan-paper)
+  - [Overig](#overig-1)
+- [Evaluatie project](#evaluatie-project)
+- [Evaluatie leerproces](#evaluatie-leerproces)
+
 **Keuze onderbouwing**
 
 Ik volg de opleiding ICT (Business IT & Mangement) op de Haagse Hogeschool in Den Haag. Daar krijgen we vakken die te maken hebben met data (IT) en vakken die met bedrijfskunde te maken hebben (Business & Mangement). Naar mijn idee bevatte ik nog (te) weinig technische kennis. Ik wist dat deze minor daardoor ook extra zwaar voor mij zou zijn. Ik wist dat ik eraan moest trekken in de avonden door zou moeten gaan en er meer energie in moet steken dan de anderen. Toch heb ik voor deze minor gekozen en zal ik de komende 20 weken mijn best doen om er het beste van te maken en zoveel mogelijk te leren.  
@@ -40,7 +59,15 @@ Om mijn persoonlijke doel 3 (De basis van Machine Learning begrijpen/toepassen) 
 
 ### 2.4 Spark Assignments
 Tijdens ons project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 10 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
+Jargon
 
+Tijdens ons onderzoek hebben we met termen gebruikt die eigenlijk alleen maar begrepen kunnen worden door ons project team, maar deze zullen wel in dit portfolio terugkomen. Daarom zullen ze hieronder worden toegelicht.
+
+jargon	Explenation
+Raw data / Ruwe data	Ruwe sensor data met locatie en rotatie van de sensoren
+Cleaned data / Schone data	Cleaned data zijn de door LUMC verwerkte ruwe data, in deze data zijn alle locaties weg is alle data relatief van elkaar weergegeven d.m.v. hoeken
+Super cleaned data / Super schone data	De super cleaned data is de door ons schoon gemaakte cleaned data, dit proces is later beschreven
+Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch gebied, deze zijn hieronder te zien. Dit plaatje is gemaakt door Vincent
 ## 3.0 Gedurend het project
 In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het project of waar ik een bijdrage aan gelevert heb. 
 
