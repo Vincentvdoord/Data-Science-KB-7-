@@ -3,7 +3,7 @@ Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gere
 hierbij ligt bij mij zelf, wat was mijn bijdrage aan het project en belangrijk: wat heb ik geleerd/ervaren. 
 
 ## Portfolio Indeling
-- [Intro Ortho Eyes](#1.-Intro-Ortho-Eyes)
+- [Intro Ortho Eyes](#.-intro-ortho-eyes)
   - [DataCamp](#datacamp)
   - [Coursera](#coursera)
   - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -39,8 +39,6 @@ De reden dat ik gekozen heb voor deze minor is omdat ik nieuwe dingen wilde lere
 Voordat specialisten een diagnose kunnen stellen bij een patient moeten de patienten in de praktijk meerdere oefeningeng uit te voeren om de conditie van de schouder te kunnen achter te halen. Als projectgroep willen wij onderzoeken of het mogelijk is om een diagnose te stellen op basis van de gegenereerde data. 
 
 De data die beschikbaar is, is van echte patienten. Deze patienten hebben 1 of meerdere oefeningen uitgevoerd. Als projectgroep hebben wij deze data ontvangen en geanalyseerd.
-
-
 
 
 ## 2.0 Persoonlijke ontwikkeling 
