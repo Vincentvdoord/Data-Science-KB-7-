@@ -4,22 +4,13 @@ hierbij ligt bij mij zelf, wat was mijn bijdrage aan het project en belangrijk: 
 
 ## Portfolio Indeling
 - [1. Intro Ortho Eyes](#1-intro-ortho-eyes)
-  - [DataCamp](#datacamp)
-  - [Coursera](#coursera)
-  - [Exploratory Data Analysis](#exploratory-data-analysis)
-  - [Spark Assignments](#spark-assignments)
+- [2.0 Persoonlijke ontwikkeling](#2-persoonlijke-ontwikkeling)
+  - [2.1 DataCamp](#2-1-datacamp)
+  - [2.2 Coursera](#2-2-coursera)
+  - [2.3 Spark Assignments](#2-3-spark-assignments)
 - [Tijdens het project](#tijdens-het-project)
-  - [Kennis over domein](#kennis-over-domein)
-  - [Gebouwde modellen](#gebouwde-modellen)
-  - [Voorbereiden data](#voorbereiden-data)
-  - [Visualisatie data](#visualisatie-data)
-  - [Verzamelen data](#verzamelen-data)
-- [Overig](#overig)
-  - [Presentaties](#presentaties)
-  - [Bijdrage aan paper](#bijdrage-aan-paper)
-  - [Overig](#overig-1)
-- [Evaluatie project](#evaluatie-project)
-- [Evaluatie leerproces](#evaluatie-leerproces)
+- [Reflectie](#reflectie)
+
 
 **Keuze onderbouwing**
 
@@ -52,12 +43,9 @@ Naast de noodzakelijke Datacamp courses zijn er ook een aantal extra courses/cha
 ### 2.2 Coursera
 Om mijn persoonlijke doel 3 (De basis van Machine Learning begrijpen/toepassen) te behalen worden de Coursera courses gevolgt. 
 
-### 2.3 Exploratory data analysis
-
-
-### 2.4 Spark Assignments
+### 2.3 Spark Assignments
 Tijdens ons project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 10 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
-Jargon
+## Jargon
 
 Tijdens ons onderzoek hebben we met termen gebruikt die eigenlijk alleen maar begrepen kunnen worden door ons project team, maar deze zullen wel in dit portfolio terugkomen. Daarom zullen ze hieronder worden toegelicht.
 
@@ -66,6 +54,7 @@ Raw data / Ruwe data	Ruwe sensor data met locatie en rotatie van de sensoren
 Cleaned data / Schone data	Cleaned data zijn de door LUMC verwerkte ruwe data, in deze data zijn alle locaties weg is alle data relatief van elkaar weergegeven d.m.v. hoeken
 Super cleaned data / Super schone data	De super cleaned data is de door ons schoon gemaakte cleaned data, dit proces is later beschreven
 Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch gebied, deze zijn hieronder te zien. Dit plaatje is gemaakt door Vincent
+
 ## 3.0 Gedurend het project
 In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het project of waar ik een bijdrage aan gelevert heb. 
 
