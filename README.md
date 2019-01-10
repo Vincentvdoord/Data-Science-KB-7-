@@ -16,8 +16,6 @@ hierbij ligt bij mij zelf, wat was mijn bijdrage aan het project en belangrijk: 
 
 Ik volg de opleiding ICT (Business IT & Mangement) op de Haagse Hogeschool in Den Haag. Daar krijgen we vakken die te maken hebben met data (IT) en vakken die met bedrijfskunde te maken hebben (Business & Mangement). Naar mijn idee bevatte ik nog (te) weinig technische kennis. Ik wist dat deze minor daardoor ook extra zwaar voor mij zou zijn. Ik wist dat ik eraan moest trekken in de avonden door zou moeten gaan en er meer energie in moet steken dan de anderen. Toch heb ik voor deze minor gekozen en zal ik de komende 20 weken mijn best doen om er het beste van te maken en zoveel mogelijk te leren.  
 
-`CHECK` KEUZE ORTHO EYES
-
 **Persoonlijke leerdoelen**
 
 De reden dat ik gekozen heb voor deze minor is omdat ik nieuwe dingen wilde leren. Onderstaand mijn persoonlijke leerdoelen voor de komende 20 weken.
@@ -27,7 +25,14 @@ De reden dat ik gekozen heb voor deze minor is omdat ik nieuwe dingen wilde lere
  4. Meer technische kennis verkrijgen
  
  **Mijn rol binnen het project**
-Hier iets typen over mijn eigen rol
+Normaliter neem ik de leidende rol in projecten. Omdat ik dusdanig weinig kennis had van Data Science heb ik besloten om dat niet gelijk te doen in dit project. Ik heb de eerste weken gekeken naar iedereen zijn sterktes om zo ons multidisciplinaire team te laten slagen. Na een aantal weken zijn we de taken op elkaars sterktes gaan indelen:
+
+- Luke: meest technische van de groep, het meeste programmeer werk is voor hem
+- Rogier: meest wiskundige van de groep, ingewikkelde wiskundige vraagstukken kon hij oplossen
+- Kasper: Goed in literatuur onderzoek/schrijven van paper, neemt hij grotendeels voor zijn rekening
+- Vincent(ik): coördinerende rol en bijspringen waar nodig
+
+Omdat ik redelijk ervaren ben met photoshop heb ik al het design werk opgepakt. Het presentatie template ontworpen en allerlei afbeeldingen gemaakt die relevant zijn voor ons project. Deze zullen geheid aan bod komen in mijn portfolio.
 
  **Trello**
  
@@ -38,7 +43,9 @@ Voordat specialisten een diagnose kunnen stellen bij een patient moeten de patie
 De data die beschikbaar is, is van echte patienten. Deze patienten hebben 1 of meerdere oefeningen uitgevoerd. Als projectgroep hebben wij deze data ontvangen en geanalyseerd.
 
 
-## 2.0 Persoonlijke ontwikkeling 
+## 2.0 Persoonlijke ontwikkeling
+Voor mij is binnen het project dit het belangrijkste. Ik wil zoveel mogelijk leren.
+
 ### 2.1 Datacamp
 Om mijn persoonlijke doel 1 (Het leren programmeren in Python) te behalen is er vanaf dag 1 fanatiek gewerkt aan Datacamp. Binnen de gestelde tijd zijn alle noodzakelijke Datacamp courses afgerond.
 
@@ -79,7 +86,35 @@ Olecranon - Elleboog
 In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het project of waar ik een bijdrage aan gelevert heb. Tijdens het project heb ik zoveel mogelijk verschillende werkzaamheden uitgevoerd om zo mijn kennis te verbreden. 
 
 ### Classifiers
-### Cleanen Data
+Binnen het project heb ik individueel en in samewerking met menig classifier gebouwd. Binnen de dataset waren er 4 categorieen die onderscheiden konden worden.
+
+**Classifiers - cleaned data**
+Tijdens het werken met classifiers binnen dit project heb ik aan veel classifiers mee gewerkt. In de paper zijn de resultaten van deze classifiers te zien.
+
+**Classifier 1, 2, 3, 4**
+De eerste classifier die ik heb gemaakt in dit project is de één tegen de 3 classifier, waar één categorie tegen de andere categorien vergeleken wordt. Dit was gedaan op sample niveau wat in de paper wordt uitgelegd. Het maken van de classifier is gedaan met SKlearn. Het script wat gebruikt is voor deze classifier is omgebouwt tot een andere classifier, maar is te zien in cell 3 van dit script.
+
+**Classifier XYZ energie**
+De XYZ energie classifier onderscheid zich van de andere classifiers omdat ik bij deze classifier gebruik heb gemaakt van de oppervlakte berekeningen van mijn project genoten. Ik heb het in een classifier gedaan en heel veerl verschillende soorten combinatie geprobeerd.
+
+XYZ energie bij elkaar optellen 
+XYZ energie apart meegeven
+X,Y energie (Z weglaten)
+
+Helaas was het resultaat van al deze varianten niet goed (<50%)
+**Classifier 11 t/m 22 (Category 1 vs 2 (True vs False))**
+Classifier 11 tot en met 22 heeft ons geholpen de data beter te begrijpen, met de resultaten van deze classifier (te vinden in de paper) hebben we gezien dat hoe groter het verschil tussen de categorien, hoe preciser we kunnen clasificeren. De classifier werkt door twee categorien met elkaar te vergelijken, bijvoorbeeld categorie 1 met 2 (True vs False). Deze sample niveau classifier is samen met Luke gemaakt en is hier te vinden.
+
+**Classifier 26 t/m 49 (Category 1 vs 2 .MAX)**
+Classifier 26 tot en met 49 is de eerste poging tot een patient niveau classifier. Om van sample niveau classifiers af te stappen hadden we een manier nodig om parameters van een patient te maken. Als eerste patient classifier hebebn we daarom gekozen om de absolute maximale hoeken mee te nemen als waardes voor de classifier. Het idee hierachter was om de maximale beweging van de patient te meten, om te zien hoever hij zijn arm bijvoorbeeld omhoog kon bewegen.
+
+Deze patient niveau classifier is samen met Luke gemaakt en is hier te vinden.
+
+
+### Cleanen van de Data
+In zijn totaliteit moesten er 1500 oefeningen gecleaned worden. Dit hebben wij als groep gedaan. Het python script hiervoor is geschreven door Luke.
+
+In de laatste week bleek dat de apart gezette testset nog gecleaned moest worden. Dit heb ik voor mijn rekening genomen (circa 140 oefeningen extra)
 ### Overig
 Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschool. Tijdens deze borrel hebben wij aan andere onderwijzers uitgelegd wat het doel is van dit project en waar wij precies mee bezig zijn. Dit hebben wij met behulp van [deze poster](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Poster_CvB-borrel.pdf) uitgelegd die ik gemaakt heb met Kasper. Ik was er tijdens die borrel ook bij en heb aan veel geïnteresseerde docenten uitgelegd over ons project.
 
