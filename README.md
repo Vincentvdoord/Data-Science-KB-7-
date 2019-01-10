@@ -25,6 +25,9 @@ De reden dat ik gekozen heb voor deze minor is omdat ik nieuwe dingen wilde lere
  2. Ervaring krijgen met het verwerken van 'Big Data'
  3. De basis van Machine Learning begrijpen/toepassen
  4. Meer technische kennis verkrijgen
+ 
+ **Mijn rol binnen het project**
+Hier iets typen over mijn eigen rol
 
 ## 1. Intro Ortho Eyes
 Voordat specialisten een diagnose kunnen stellen bij een patient moeten de patienten in de praktijk meerdere oefeningeng uit te voeren om de conditie van de schouder te kunnen achter te halen. Als projectgroep willen wij onderzoeken of het mogelijk is om een diagnose te stellen op basis van de gegenereerde data. 
@@ -64,8 +67,10 @@ Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch g
 ## 3.0 Gedurend het project
 In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het project of waar ik een bijdrage aan gelevert heb. Tijdens het project heb ik zoveel mogelijk verschillende werkzaamheden uitgevoerd om zo mijn kennis te verbreden. 
 
-### Classifiers
 
+
+### Classifiers
+### Cleanen Data
 ### Overig
 Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschool. Tijdens deze borrel hebben wij aan andere onderwijzers uitgelegd wat het doel is van dit project en waar wij precies mee bezig zijn. Dit hebben wij met behulp van [deze poster](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Poster_CvB-borrel.pdf) uitgelegd die ik gemaakt heb met Kasper. Ik was er tijdens die borrel ook bij en heb aan veel geïnteresseerde docenten uitgelegd over ons project.
 
@@ -81,7 +86,7 @@ Deze heb ik onverwachts moeten opvangen in het kader van ziekte/afwezigheid.
 
 ## 4.0 Reflectie
 Als ik terug kijk op de afgelopen 20 weken is de tijd snel gegaan. In het begin had ik nog enige twijfel bij deze minor. Dat kwam voornamelijk door het programmeer werk. Achteraf bleek dat de wiskunde erachter ingewikkelder was dan het programmeren zelf. 
-
+`UITLEGGEN DAT DE PROJECT AANPAK ANDERS HAD GEMOETEN`
 Om terug te komen op de persoonlijke leerdoelen
 ### 1. Het leren programmeren in Python
 Dit doel heb ik naar mijn idee naar behoren gehaald. Het is niet dat ik de snelste/beste Python programmeur ben, maar als eerste programmeertaal waar ik kennis van heb mogen nemen kan ik data inlezen bewerken en analyseren.
