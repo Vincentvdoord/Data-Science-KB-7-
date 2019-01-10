@@ -91,8 +91,8 @@ Binnen het project heb ik individueel en in samewerking met menig classifier geb
 **Classifiers - cleaned data**
 Tijdens het werken met classifiers binnen dit project heb ik aan veel classifiers mee gewerkt. In de paper zijn de resultaten van deze classifiers te zien.
 
-**Classifier 1, 2, 3, 4**
-De eerste classifier die ik heb gemaakt in dit project is de één tegen de 3 classifier, waar één categorie tegen de andere categorien vergeleken wordt. Dit was gedaan op sample niveau wat in de paper wordt uitgelegd. Het maken van de classifier is gedaan met SKlearn. Het script wat gebruikt is voor deze classifier is omgebouwt tot een andere classifier, maar is te zien in cell 3 van dit script.
+**Classifier 1 vs all**
+De eerste classifier die ik heb gemaakt in dit project is de één tegen de rest classifier, waar één categorie tegen de andere categorien vergeleken wordt. Dit was gedaan op sample niveau wat in de paper wordt uitgelegd. Het maken van de classifier is eerst gedaan met behulp van de tutorial van J. Vuurens. waarna ik het omgebouwd heb in SKlearn voor betere preformance. Het script wat gebruikt is voor deze classifier is omgebouwt tot een andere classifier, maar is te zien in cell 3 van dit script.
 
 **Classifier XYZ energie**
 De XYZ energie classifier onderscheid zich van de andere classifiers omdat ik bij deze classifier gebruik heb gemaakt van de oppervlakte berekeningen van mijn project genoten. Ik heb het in een classifier gedaan en heel veerl verschillende soorten combinatie geprobeerd.
@@ -102,6 +102,7 @@ XYZ energie apart meegeven
 X,Y energie (Z weglaten)
 
 Helaas was het resultaat van al deze varianten niet goed (<50%)
+
 **Classifier 11 t/m 22 (Category 1 vs 2 (True vs False))**
 Classifier 11 tot en met 22 heeft ons geholpen de data beter te begrijpen, met de resultaten van deze classifier (te vinden in de paper) hebben we gezien dat hoe groter het verschil tussen de categorien, hoe preciser we kunnen clasificeren. De classifier werkt door twee categorien met elkaar te vergelijken, bijvoorbeeld categorie 1 met 2 (True vs False). Deze sample niveau classifier is samen met Luke gemaakt en is hier te vinden.
 
