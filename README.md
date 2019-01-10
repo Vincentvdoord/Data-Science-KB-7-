@@ -41,7 +41,12 @@ Om mijn persoonlijke doel 1 (Het leren programmeren in Python) te behalen is er 
 Naast de noodzakelijke Datacamp courses zijn er ook een aantal extra courses/chapters gemaakt. Omdat ik het niet over mijn hart kon krijgen om een course voor de helft te maken (wat voldoende zou zijn). 
 
 ### 2.2 Coursera
-Om mijn persoonlijke doel 3 (De basis van Machine Learning begrijpen/toepassen) te behalen worden de Coursera courses gevolgt. 
+Op Coursera zijn alle verplichte Coursera courses gevolgd. Enkel de verplichte courses en quizzes zijn gedaan omdat het vrij lastig was en behoorlijk wat theorie. Tevens was er niet meer nodig voor het project. Ook mijn persoonlijke doel 3 (De basis van Machine Learning begrijpen/toepassen) te behalen worden de Coursera courses gevolgt. Onderstaand de screenshots als bewijsvoering.
+
+Week 1 [Linear Regression with One variable](AFBEELDING LINK)
+Week 2 [Linear Regression with Multiple Variables](AFBEELDING lINK)
+Week 3 [Logistic Regression & Regularization](AFBEELDING LINK)
+Week 6 [Advice for Applying Machine Learning](AFBEELDING LINK)
 
 ### 2.3 Spark Assignments
 Tijdens ons project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 10 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
@@ -53,11 +58,19 @@ jargon	Explenation
 Raw data / Ruwe data	Ruwe sensor data met locatie en rotatie van de sensoren
 Cleaned data / Schone data	Cleaned data zijn de door LUMC verwerkte ruwe data, in deze data zijn alle locaties weg is alle data relatief van elkaar weergegeven d.m.v. hoeken
 Super cleaned data / Super schone data	De super cleaned data is de door ons schoon gemaakte cleaned data, dit proces is later beschreven
+
 Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch gebied, deze zijn hieronder te zien. Dit plaatje is gemaakt door Vincent
 
 ## 3.0 Gedurend het project
-In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het project of waar ik een bijdrage aan gelevert heb. 
+In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het project of waar ik een bijdrage aan gelevert heb. Tijdens het project heb ik zoveel mogelijk verschillende werkzaamheden uitgevoerd om zo mijn kennis te verbreden. 
 
+### Classifiers
+
+### Overig
+Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschool. Tijdens deze borrel hebben wij aan andere onderwijzers uitgelegd wat het doel is van dit project en waar wij precies mee bezig zijn. Dit hebben wij met behulp van [deze poster](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Poster_CvB-borrel.pdf) uitgelegd die ik gemaakt heb met Kasper. Ik was er tijdens die borrel ook bij en heb aan veel geïnteresseerde docenten uitgelegd over ons project.
+
+Dit is een impressie van onze 'presentatie' bij de CvB-borrel.
+<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/cvb-borrel.jpg?raw=true">
 ## Presentaties
 Iedere vrijdag dient er gepresenteerd te worden. Ik heb meegeholpen aan het maken van elke presentatie, behalve die van week8. De weken dat ik daadwerkelijk gepresenteerd heb is week 3/6/11/16*
 
