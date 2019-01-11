@@ -20,6 +20,7 @@ Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gere
   - [3.5 Presentaties](#35-presentaties)
   - [3.6 Overig](#36-overig)
 - [4.0 Reflectie](#40-reflectie)
+  - [4.1 Reflecteren op de leerdoelen](#41-reflecteren-op-de-leerdoelen)
 
 ## 1.0 De Introductie
 In dit hoofdstuk zullen allerlei globale zaken aanbod komen. Onder andere waarom ik voor deze minor heb gekozen en wat mijn rol was binnen dit project.
