@@ -68,7 +68,7 @@ Tijdens ons onderzoek heb ik veel nieuwe begrippen geleerd. Onderstaand een opso
 
 **Super cleaned data** - De super cleaned data is de door ons schoongemaakte cleaned data, voornamelijk is het begin en eind weggehaald. Soms is de oefening in 2 delen gesplits als bleek dat de oefening 2 maal was uitgevoerd
 
-Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch gebied, deze zijn hieronder te zien. Dit plaatje heb ik zelf gemaakt.
+Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch gebied, deze zijn hieronder te zien. Dit plaatje heb ik zelf gemaakt.In de afbeelding te zien; de sensoren met haar nummers. Ook de latijnse namen die gebruikt worden door de artsen met vertaling staan erin. Met een ster aangegeven staan de gegevens die berekend worden en enkel te zien is in de gecleande data.
 
 <details><summary> Medisch Jargon (Afbeelding)</summary>
   <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Ortho%20eyes.jpg" alt="alt text"></details>
@@ -76,7 +76,14 @@ Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch g
 >Thorax - Borstkas / Clavicula - Sleutelbeen / Scapula - Schouderblad / Humerus - Bovenarm / Olecranon - Elleboog
 
 ### 2.1 Datacamp
-Om mijn persoonlijke doel 1 (Het leren programmeren in Python) te behalen is er vanaf dag 1 fanatiek gewerkt aan Datacamp. Binnen de gestelde tijd zijn alle noodzakelijke Datacamp courses afgerond.
+Om mijn persoonlijke doel 1 (Het leren programmeren in Python) te behalen is er vanaf dag 1 fanatiek gewerkt aan Datacamp. Omdat ik in het begin zo graag Python wilde leren was ik er elke dag fanatiek mee bezig. Elke dag wel even wat oefenen op Datacamp. Ik heb dit ruim 40 dagen volgehouden. Want ik vond het ook leuk!
+
+<details><summary> Datacamp streak (Screenshots)</summary>
+  <img src="https://i.imgur.com/7gz2IMp.jpg" alt="alt text" width="550" height="170">" 
+  <img src="https://i.imgur.com/PqDiPhG.jpg" alt="alt text" width="550" height="170">
+</details>
+
+Binnen de gestelde tijd zijn alle noodzakelijke Datacamp courses afgerond.
 
 <details><summary> Datacamp Evidance (Screenshot)</summary>
   <img src="https://i.imgur.com/izapVDF.png" alt="alt text"></details>
@@ -148,7 +155,7 @@ Na verloop van tijd had iedereen zoveel dingen gemaakt. Iedereen had in zijn map
 ## 3.5 Presentaties
 Iedere vrijdag dient er gepresenteerd te worden. Ik heb meegeholpen aan het maken van elke presentatie, behalve die van week8. De weken dat ik daadwerkelijk gepresenteerd heb is week 3/6/11/16*
 
-Deze heb ik onverwachts moeten opvangen in het kader van ziekte/afwezigheid. 
+*Deze heb ik onverwachts moeten opvangen in het kader van ziekte/afwezigheid. 
 
 ### 3.6 Overig
 Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschool. Tijdens deze borrel hebben wij aan andere onderwijzers uitgelegd wat het doel is van dit project en waar wij precies mee bezig zijn. Dit hebben wij met behulp van [deze poster](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Poster_CvB-borrel.pdf) uitgelegd die ik gemaakt heb met Kasper. Ik was er tijdens die borrel ook bij en heb aan veel geïnteresseerde docenten uitgelegd over ons project.
