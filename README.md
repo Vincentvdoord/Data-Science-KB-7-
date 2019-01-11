@@ -7,7 +7,7 @@ Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gere
   - [2.1 DataCamp](#21-datacamp)
   - [2.2 Coursera](#22-coursera)
   - [2.3 Spark Assignments](#23-spark-assignments)
-  - [2.3 Jargon(#24-jargon)
+  - [2.3 Jargon](#24-jargon)
 - [3.0 Gedurende het project](#30-gedurende-het-project)
 - [Reflectie](#reflectie)
 
