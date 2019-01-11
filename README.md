@@ -56,7 +56,7 @@ Onderstaand de aanpak van ons project, deze heb ik gemaakt.
  
 
 ## 2.0 Persoonlijke ontwikkeling
-Voor mij is binnen het project dit het belangrijkste. Ik wil zoveel mogelijk leren. Als eerste heb ik een wetenschappelijk artikel gelezen om meer informatie over de context te vergaren [(De Groot, 1999)](https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/DeGroot_1999.pdf)
+Voor mij is binnen het project dit het belangrijkste. Ik wil zoveel mogelijk leren. Als eerste heb ik een wetenschappelijk artikel gelezen om meer informatie over de context te vergaren het artikel dat ik gelezen heb: [(De Groot, 1999)](https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/DeGroot_1999.pdf)
 
 ## 2.4 Jargon
 Tijdens ons onderzoek heb ik veel nieuwe begrippen geleerd. Onderstaand een opsomming van de begrippen die tijdens ons project aanbod kwamen.
@@ -103,18 +103,31 @@ Tijdens ons project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodza
 In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het project of waar ik een bijdrage aan geleverd heb. Tijdens het project heb ik zoveel mogelijk verschillende werkzaamheden uitgevoerd om zo mijn kennis te verbreden. 
 
 ### 3.1 Classifiers
-Binnen het project heb ik individueel en in samenwerking met menig classifier gebouwd. Binnen de dataset waren er 4 categorieën die onderscheiden konden worden. De uitdaging was om een accuracy van 90% of hoger te halen. Vanaf  90% was het redelijk betrouwbaar voor het LUMC
+Binnen het project heb ik individueel en in samenwerking met menig classifier gebouwd. Binnen de dataset waren er 4 categorieën die onderscheiden konden worden. De uitdaging was om een accuracy van 90% of hoger te halen. Vanaf  90% was het redelijk betrouwbaar voor het LUMC.
 
 **Classifier 1 vs all**
+
 De eerste classifier die ik heb gemaakt in dit project is de één tegen de rest classifier, waar één categorie tegen de andere categorieën vergeleken wordt. Dit was gedaan op sample niveau wat in de paper wordt uitgelegd. Het maken van de classifier is eerst gedaan met behulp van de tutorial van J. Vuurens. Waarna ik het omgebouwd heb in SKlearn voor betere performance. Met deze classifier konden we cat1 en cat4 onderscheiden van de rest. Maar 2 en 3 nog niet van elkaar.
 
+**KNN Classifier**
+
+In het kader van proberen en leren. Heb ik samen met Kasper de KNN classifier gemaakt. Deze is behandeld in de datacamp courses en wij wilden het graag op onze data loslaten. Het werkte alsvolgt. Het script gaat 10x een classifier trainen en testen (N= 1-10). Met de beste waarde voor N trainen we dan de uiteindelijke classifier. Het was een goede oefening maar niet heel betrouwbaar. 
+
+[KNN Classifier](https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Scripts/classifier%20cat%204%20versie%202.1.ipynb)
+
 **Classifier Cat 2 vs 3**
+
 Omdat de eerste classifier nog geen goede resultatent gaf kregen we het advies in de wekelijke presentatie om een de classifier te versimpelen en enkel cat2 tegen cat3 uit te zetten. Met de resultaten van deze classifier (te vinden in de paper) hebben we gezien dat hoe groter het verschil tussen de categorieën, hoe preciseer we kunnen clasificeren. De classifier werkt door twee categorieën met elkaar te vergelijken, bijvoorbeeld categorie 1 met 2 (True vs False). Deze sample niveau classifier is samen met Luke gemaakt en is hier te vinden.
 
-**Classifier 26 t/m 49 (Category 1 vs 2 .MAX)**
-DezeClassifier 26 tot en met 49 is de eerste poging tot een patiënt niveau classifier. Om van sample niveau classifiers af te stappen hadden we een manier nodig om parameters van een patiënt te maken. Als eerste patiënt classifier hebben we daarom gekozen om de maximale hoeken mee te nemen als waardes voor de classifier. Het idee hierachter was om de maximale beweging van de patiënt te meten, om te zien hoever hij zijn arm bijvoorbeeld omhoog kon bewegen. Daarna probeerde we de .ABS().MAX()
+**Classifier (cat1 vs 2 .ABS().MAX)**
 
-Deze patiënt niveau classifier is samen met Luke gemaakt en is hier te vinden.
+Deze classifier is de eerste poging geweest om tot een patiënt niveau classifier te komen. Om van sample niveau classifiers af te stappen hadden we een manier nodig om parameters van een patiënt te maken. Als eerste patiënt classifier hebben we daarom gekozen om de maximale hoeken mee te nemen als waardes voor de classifier. Het idee hierachter was om de maximale beweging van de patiënt te meten, om te zien hoever hij zijn arm bijvoorbeeld omhoog kon bewegen. Daarna probeerde we de .ABS().MAX()
+
+Deze patiënt niveau classifier is samen met Luke gemaakt. [Patient niveau classifier](https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Scripts/classifier%20patient%20niveau%20versie%200.1.ipynb)
+
+Vervolgens hadden we nog een 1 vs all classifier gemaakt op patient niveau. [Patient niveau classifier 1 v all](https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Scripts/classifier%20patient%20niveau%20versie%200.3%20-%20less%20is%20more.ipynb)
+
+Het probleem waar we gelijk tegen aan liepen was dat de test set erg weinig patienten bevatte. Daardoor waren de resultaten niet betrouwbaar. Met name in Cat4 hadden we maar 1 patient in de testset.
 
 **Classifier XYZ energie**
 Als laatste heb ik de XYZ energie classifier gebouwd. Deze onderscheid zich van de andere classifiers omdat ik bij deze classifier gebruik heb gemaakt van de oppervlakte berekeningen van mijn project genoten. Ik heb het in een classifier gedaan en heel veel verschillende soorten combinatie geprobeerd.
@@ -123,7 +136,7 @@ XYZ energie bij elkaar optellen
 XYZ energie apart meegeven
 X,Y energie (Z weglaten)
 
-Helaas was het resultaat van al deze varianten niet goed (<50%)
+Helaas was het resultaat van al deze varianten niet goed (<50%). [XYZ Energie classifier](https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Scripts/Classifier%20oppervlakte.ipynb)
 
 ### 3.2 Oefeningen vergelijken
 In alle categorieen zijn er oefeningen uitgevoerd maar ze hadden allerlei verschillende getallen. We wilde onderzoeken of een oefening 2 uit categorie4 hetzelfde is als een oefening2 uit categorie3. Als we dit hadden uitgezocht konden we een gerichtere classifier maken.
