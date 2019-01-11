@@ -2,7 +2,11 @@
 Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gereflecteerd/gedocumenteerd worden. De focus hierbij ligt bij mij zelf, wat was mijn bijdrage aan het project en belangrijk: wat heb ik geleerd/ervaren. 
 
 ## Portfolio Indeling
-- [1. Intro Ortho Eyes](#1-intro-ortho-eyes)
+- [1.0 De introductie](#10-de-introductie)
+  - [1.1 Keuze onderbouwing](#11-keuze-onderbouwing)
+  - [1.2 Persoonlijke leerdoelen](#12-persoonlijke-leerdoelen)
+  - [1.3 Rol binnen de groep](#13-rol-binnen-de-groep)
+  - [1.4 Ortho Eyes opdracht](#14-ortho-eyes-opdracht)
 - [2.0 Persoonlijke ontwikkeling](#20-persoonlijke-ontwikkeling)
   - [2.1 DataCamp](#21-datacamp)
   - [2.2 Coursera](#22-coursera)
@@ -14,17 +18,18 @@ Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gere
   - [3.3 Presentaties](#33-presentaties)
 - [4.0 Reflectie](#40-reflectie)
 
-**Keuze onderbouwing**
+## 1.0 De Introductie
+### 1.1 Keuze onderbouwing
 Ik volg de opleiding ICT (Business IT & Management) op de Haagse Hogeschool in Den Haag. Daar krijgen we vakken die te maken hebben met data (IT) en vakken die met bedrijfskunde te maken hebben (Business & Management). Naar mijn idee bevatte ik nog (te) weinig technische kennis. Ik wist dat deze minor daardoor ook extra zwaar voor mij zou zijn. Ik wist dat ik eraan moest trekken in de avonden door zou moeten gaan en er meer energie in moet steken dan de anderen. Toch heb ik voor deze minor gekozen en zal ik de komende 20 weken mijn best doen om er het beste van te maken en zoveel mogelijk te leren.  
 
-**Persoonlijke leerdoelen**
+### 1.2 Persoonlijke leerdoelen
 De reden dat ik gekozen heb voor deze minor is omdat ik nieuwe dingen wilde leren. Onderstaand mijn persoonlijke leerdoelen voor de komende 20 weken.
  1. Het leren programmeren in Python
  2. Ervaring krijgen met het verwerken van 'Big Data'
  3. De basis van Machine Learning begrijpen/toepassen
  4. Meer technische kennis verkrijgen
  
- **Mijn rol binnen het project**
+### 1.3 Rol binnen de groep
 Normaliter neem ik de leidende rol in projecten. Omdat ik dusdanig weinig kennis had van Data Science heb ik besloten om dat niet gelijk te doen in dit project. Ik heb de eerste weken gekeken naar iedereen zijn sterktes om zo ons multidisciplinaire team te laten slagen. Na een aantal weken zijn we de taken op elkaars sterktes gaan indelen:
 
 - Luke: meest technische van de groep, het meeste programmeer werk is voor hem
@@ -34,7 +39,7 @@ Normaliter neem ik de leidende rol in projecten. Omdat ik dusdanig weinig kennis
 
 Omdat ik redelijk ervaren ben met photoshop heb ik al het design werk opgepakt. Het presentatie template ontworpen en allerlei afbeeldingen gemaakt die relevant zijn voor ons project. Deze zullen geheid aan bod komen in mijn portfolio. 
 
-## 1. Intro Ortho Eyes
+### 1.4 Ortho Eyes opdracht
 Voordat specialisten een diagnose kunnen stellen bij een patient moeten de patienten in de praktijk meerdere oefeningeng uit te voeren om de conditie van de schouder te kunnen achter te halen. Als projectgroep willen wij onderzoeken of het mogelijk is om een diagnose te stellen op basis van de gegenereerde data. 
 
 De data die beschikbaar is, is van echte patiënten. Deze patiënten hebben 1 of meerdere oefeningen uitgevoerd. Als projectgroep hebben wij deze data ontvangen en geanalyseerd.
