@@ -1,3 +1,6 @@
+> DIT WAS NIET DE JUISTE MANIER VAN DOCUMENTEREN VANDAAR INCOMPLEET
+
+
 # Logboek (KB-74)
 In dit bestand zal per sprint gereflecteerd/gedocumenteerd worden. De focus hierbij ligt bij mij zelf, wat was mijn bijdrage aan het project en wat heb ik geleerd per sprint. 
 
