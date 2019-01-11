@@ -66,8 +66,9 @@ Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch g
 ### 2.1 Datacamp
 Om mijn persoonlijke doel 1 (Het leren programmeren in Python) te behalen is er vanaf dag 1 fanatiek gewerkt aan Datacamp. Binnen de gestelde tijd zijn alle noodzakelijke Datacamp courses afgerond.
 
-<img src="https://i.imgur.com/izapVDF.png" alt="alt text">
-
+<details><summary> Datacamp Evidance (Screenshot)</summary>
+  <<img src="https://i.imgur.com/izapVDF.png" alt="alt text"></details>
+  
 Naast de noodzakelijke Datacamp courses zijn er ook een aantal extra courses/chapters gemaakt. Omdat ik het niet over mijn hart kon krijgen om een course voor de helft te maken (wat voldoende zou zijn). 
 
 ### 2.2 Coursera
