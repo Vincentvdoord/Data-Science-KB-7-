@@ -173,9 +173,16 @@ Na verloop van tijd had iedereen zoveel dingen gemaakt. Iedereen had in zijn map
   <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Projectaanpak.png?raw=true" alt="alt text"></details>
 
 ## 3.5 Presentaties
-Iedere vrijdag dient er gepresenteerd te worden. Ik heb meegeholpen aan het maken van elke presentatie, behalve die van week8. De weken dat ik daadwerkelijk gepresenteerd heb is week 3/6/11/16*
+Iedere vrijdag dient er gepresenteerd te worden. Omdat er elke week een presentatie gemaakt moest worden leek het mij handig om hier een procesje voor in te richten. Dat was als volgt: Donderdag 12:00 presentatie maken en vrijdag ochtend 11:00 met Tony de presentatie langslopen. Dit pakte elke week goed uit.
+
+Ik heb meegeholpen aan het maken van elke presentatie, behalve die van week8. De weken dat ik daadwerkelijk gepresenteerd heb is week 3/6/11/12*. Daarna wilde Kasper vrijwillig alle presentaties doen en dat was naar mijn idee prima.
 
 *Deze heb ik onverwachts moeten opvangen in het kader van ziekte/afwezigheid. 
+
+Ik heb wel meegeholpen aan de presentaties die kasper gegeven heeft.
+
+[Presentaties](https://github.com/Vincentvdoord/Data-Science-KB-74/upload/master/Presentaties)
+
 
 ### 3.6 Overig
 Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschool. Tijdens deze borrel hebben wij aan andere onderwijzers uitgelegd wat het doel is van dit project en waar wij precies mee bezig zijn. Dit hebben wij met behulp van [deze poster](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Poster_CvB-borrel.pdf) uitgelegd die ik gemaakt heb met Kasper. Ik was er tijdens die borrel ook bij en heb aan veel geïnteresseerde docenten uitgelegd over ons project.
