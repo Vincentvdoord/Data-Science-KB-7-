@@ -56,7 +56,7 @@ Onderstaand de aanpak van ons project, deze heb ik gemaakt.
  
 
 ## 2.0 Persoonlijke ontwikkeling
-Voor mij is binnen het project dit het belangrijkste. Ik wil zoveel mogelijk leren.
+Voor mij is binnen het project dit het belangrijkste. Ik wil zoveel mogelijk leren. Als eerste heb ik een wetenschappelijk artikel gelezen om meer informatie over de context te vergaren [(De Groot, 1999)](https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/DeGroot_1999.pdf)
 
 ## 2.4 Jargon
 Tijdens ons onderzoek heb ik veel nieuwe begrippen geleerd. Onderstaand een opsomming van de begrippen die tijdens ons project aanbod kwamen.
