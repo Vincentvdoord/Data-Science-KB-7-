@@ -109,6 +109,8 @@ Binnen het project heb ik individueel en in samenwerking met menig classifier ge
 
 De eerste classifier die ik heb gemaakt in dit project is de één tegen de rest classifier, waar één categorie tegen de andere categorieën vergeleken wordt. Dit was gedaan op sample niveau wat in de paper wordt uitgelegd. Het maken van de classifier is eerst gedaan met behulp van de tutorial van J. Vuurens. Waarna ik het omgebouwd heb in SKlearn voor betere performance. Met deze classifier konden we cat1 en cat4 onderscheiden van de rest. Maar 2 en 3 nog niet van elkaar.
 
+Deze classifier is helaas dusdanig omgebouwd dat ik de originele niet meer bezit.
+
 **KNN Classifier**
 
 In het kader van proberen en leren. Heb ik samen met Kasper de KNN classifier gemaakt. Deze is behandeld in de datacamp courses en wij wilden het graag op onze data loslaten. Het werkte alsvolgt. Het script gaat 10x een classifier trainen en testen (N= 1-10). Met de beste waarde voor N trainen we dan de uiteindelijke classifier. Het was een goede oefening maar niet heel betrouwbaar. 
@@ -117,7 +119,9 @@ In het kader van proberen en leren. Heb ik samen met Kasper de KNN classifier ge
 
 **Classifier Cat 2 vs 3**
 
-Omdat de eerste classifier nog geen goede resultatent gaf kregen we het advies in de wekelijke presentatie om een de classifier te versimpelen en enkel cat2 tegen cat3 uit te zetten. Met de resultaten van deze classifier (te vinden in de paper) hebben we gezien dat hoe groter het verschil tussen de categorieën, hoe preciseer we kunnen clasificeren. De classifier werkt door twee categorieën met elkaar te vergelijken, bijvoorbeeld categorie 1 met 2 (True vs False). Deze sample niveau classifier is samen met Luke gemaakt en is hier te vinden.
+Omdat de eerste classifier nog geen goede resultatent gaf kregen we het advies in de wekelijke presentatie om een de classifier te versimpelen en enkel cat2 tegen cat3 uit te zetten. Met de resultaten van deze classifier (te vinden in de paper) hebben we gezien dat hoe groter het verschil tussen de categorieën, hoe preciseer we kunnen clasificeren. De classifier werkt door twee categorieën met elkaar te vergelijken, bijvoorbeeld categorie 1 met 2 (True vs False). Deze sample niveau classifier is samen met Luke gemaakt.
+
+[Classifier 2vs 3](https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Scripts/Classifier%202%20vs%203%20v0.2.ipynb)
 
 **Classifier (cat1 vs 2 .ABS().MAX)**
 
@@ -130,6 +134,7 @@ Vervolgens hadden we nog een 1 vs all classifier gemaakt op patient niveau. [Pat
 Het probleem waar we gelijk tegen aan liepen was dat de test set erg weinig patienten bevatte. Daardoor waren de resultaten niet betrouwbaar. Met name in Cat4 hadden we maar 1 patient in de testset.
 
 **Classifier XYZ energie**
+
 Als laatste heb ik de XYZ energie classifier gebouwd. Deze onderscheid zich van de andere classifiers omdat ik bij deze classifier gebruik heb gemaakt van de oppervlakte berekeningen van mijn project genoten. Ik heb het in een classifier gedaan en heel veel verschillende soorten combinatie geprobeerd.
 
 XYZ energie bij elkaar optellen 
