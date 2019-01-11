@@ -192,7 +192,7 @@ Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschoo
 Dit is een impressie van onze 'presentatie' bij de CvB-borrel.
 
 <details><summary> CvB - borrel (Groepsfoto)</summary>
-  <img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/cvb-borrel.jpg?raw=true"></details>
+  <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/POSTER1.png"></details>
 
 ## 4.0 Reflectie
 Als ik terugkijk op de afgelopen 20 weken is de tijd snel gegaan. In het begin had ik nog enige twijfel bij deze minor. Dat kwam voornamelijk door het programmeer werk. Achteraf bleek dat de wiskunde erachter ingewikkelder was dan het programmeren zelf. 
