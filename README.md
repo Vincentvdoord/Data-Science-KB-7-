@@ -172,6 +172,8 @@ Na verloop van tijd had iedereen zoveel dingen gemaakt. Iedereen had in zijn map
 <details><summary> Project Visualisatie (Afbeelding)</summary>
   <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Projectaanpak.png?raw=true" alt="alt text"></details>
 
+In de afbeelding is te zien wat we al gedaan hadden en waar iedereen mee bezig was. Rogier was bezig met het manipuleren van de parameters. Luke was bezig met een neuraalnetwerk en Kasper was zich aan het inlezen over dropouts. In deze afbeelding is het dan in 1 opzicht duidelijk waar in het project iedereen aan het 'sleutelen' was. Zo wist iedereen weer wat iedereen aan het doen was en waarvoor.
+
 ## 3.5 Presentaties
 Iedere vrijdag dient er gepresenteerd te worden. Omdat er elke week een presentatie gemaakt moest worden leek het mij handig om hier een procesje voor in te richten. Dat was als volgt: Donderdag 12:00 presentatie maken en vrijdag ochtend 11:00 met Tony de presentatie langslopen. Dit pakte elke week goed uit.
 
