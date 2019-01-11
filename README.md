@@ -1,6 +1,5 @@
 # DataScience (KB-74)
-Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gereflecteerd/gedocumenteerd worden. De focus 
-hierbij ligt bij mij zelf, wat was mijn bijdrage aan het project en belangrijk: wat heb ik geleerd/ervaren. 
+Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gereflecteerd/gedocumenteerd worden. De focus hierbij ligt bij mij zelf, wat was mijn bijdrage aan het project en belangrijk: wat heb ik geleerd/ervaren. 
 
 ## Portfolio Indeling
 - [1. Intro Ortho Eyes](#1-intro-ortho-eyes)
@@ -11,13 +10,10 @@ hierbij ligt bij mij zelf, wat was mijn bijdrage aan het project en belangrijk: 
 - [Tijdens het project](#tijdens-het-project)
 - [Reflectie](#reflectie)
 
-
 **Keuze onderbouwing**
-
-Ik volg de opleiding ICT (Business IT & Mangement) op de Haagse Hogeschool in Den Haag. Daar krijgen we vakken die te maken hebben met data (IT) en vakken die met bedrijfskunde te maken hebben (Business & Mangement). Naar mijn idee bevatte ik nog (te) weinig technische kennis. Ik wist dat deze minor daardoor ook extra zwaar voor mij zou zijn. Ik wist dat ik eraan moest trekken in de avonden door zou moeten gaan en er meer energie in moet steken dan de anderen. Toch heb ik voor deze minor gekozen en zal ik de komende 20 weken mijn best doen om er het beste van te maken en zoveel mogelijk te leren.  
+Ik volg de opleiding ICT (Business IT & Management) op de Haagse Hogeschool in Den Haag. Daar krijgen we vakken die te maken hebben met data (IT) en vakken die met bedrijfskunde te maken hebben (Business & Management). Naar mijn idee bevatte ik nog (te) weinig technische kennis. Ik wist dat deze minor daardoor ook extra zwaar voor mij zou zijn. Ik wist dat ik eraan moest trekken in de avonden door zou moeten gaan en er meer energie in moet steken dan de anderen. Toch heb ik voor deze minor gekozen en zal ik de komende 20 weken mijn best doen om er het beste van te maken en zoveel mogelijk te leren.  
 
 **Persoonlijke leerdoelen**
-
 De reden dat ik gekozen heb voor deze minor is omdat ik nieuwe dingen wilde leren. Onderstaand mijn persoonlijke leerdoelen voor de komende 20 weken.
  1. Het leren programmeren in Python
  2. Ervaring krijgen met het verwerken van 'Big Data'
@@ -29,7 +25,7 @@ Normaliter neem ik de leidende rol in projecten. Omdat ik dusdanig weinig kennis
 
 - Luke: meest technische van de groep, het meeste programmeer werk is voor hem
 - Rogier: meest wiskundige van de groep, ingewikkelde wiskundige vraagstukken kon hij oplossen
-- Kasper: Goed in literatuur onderzoek/schrijven van paper, neemt hij grotendeels voor zijn rekening
+- Kasper: goed in literatuuronderzoek/schrijven van paper, neemt hij grotendeels voor zijn rekening
 - Vincent(ik): coördinerende rol en bijspringen waar nodig
 
 Omdat ik redelijk ervaren ben met photoshop heb ik al het design werk opgepakt. Het presentatie template ontworpen en allerlei afbeeldingen gemaakt die relevant zijn voor ons project. Deze zullen geheid aan bod komen in mijn portfolio.
@@ -40,7 +36,7 @@ Omdat ik redelijk ervaren ben met photoshop heb ik al het design werk opgepakt. 
 ## 1. Intro Ortho Eyes
 Voordat specialisten een diagnose kunnen stellen bij een patient moeten de patienten in de praktijk meerdere oefeningeng uit te voeren om de conditie van de schouder te kunnen achter te halen. Als projectgroep willen wij onderzoeken of het mogelijk is om een diagnose te stellen op basis van de gegenereerde data. 
 
-De data die beschikbaar is, is van echte patienten. Deze patienten hebben 1 of meerdere oefeningen uitgevoerd. Als projectgroep hebben wij deze data ontvangen en geanalyseerd.
+De data die beschikbaar is, is van echte patiënten. Deze patiënten hebben 1 of meerdere oefeningen uitgevoerd. Als projectgroep hebben wij deze data ontvangen en geanalyseerd.
 
 
 ## 2.0 Persoonlijke ontwikkeling
@@ -67,10 +63,10 @@ Tijdens ons project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodza
 ## Jargon
 Tijdens ons onderzoek heb ik veel nieuwe begrippen geleerd. Onderstaand een opsomming van de begrippen die tijdens ons project aanbod kwamen.
 
- 
-Raw/ruwe data	- Ruwe sensor data met locatie en rotatie van de sensoren
-Cleaned data - 	Cleaned data is door het LUMC verwerkte ruwe data, in deze data zijn alle sensor locaties weg verwijderd data relatief van elkaar weergegeven d.m.v. hoeken
-Super cleaned data - De super cleaned data is de door ons schoon gemaakte cleaned data, voornamelijk is het begin en eind weggehaald. Soms is de oefening in 2 delen gesplits als bleek dat de oefening 2 maal was uitgevoerd
+
+Raw/ruwe data - Ruwe sensor data met locatie en rotatie van de sensoren
+Cleaned data - Cleaned data is door het LUMC verwerkte ruwe data, in deze data zijn alle sensor locaties weg verwijderd data relatief van elkaar weergegeven d.m.v. hoeken
+Super cleaned data - De super cleaned data is de door ons schoongemaakte cleaned data, voornamelijk is het begin en eind weggehaald. Soms is de oefening in 2 delen gesplits als bleek dat de oefening 2 maal was uitgevoerd
 
 Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch gebied, deze zijn hieronder te zien. Dit plaatje heb ik zelf gemaakt.
 
@@ -82,20 +78,25 @@ Scapula - Schouderblad
 Humerus - Bovenarm
 Olecranon - Elleboog
 
-## 3.0 Gedurend het project
-In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het project of waar ik een bijdrage aan gelevert heb. Tijdens het project heb ik zoveel mogelijk verschillende werkzaamheden uitgevoerd om zo mijn kennis te verbreden. 
+## 3.0 Gedurende het project
+In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het project of waar ik een bijdrage aan geleverd heb. Tijdens het project heb ik zoveel mogelijk verschillende werkzaamheden uitgevoerd om zo mijn kennis te verbreden. 
 
 ### Classifiers
-Binnen het project heb ik individueel en in samewerking met menig classifier gebouwd. Binnen de dataset waren er 4 categorieen die onderscheiden konden worden.
-
-**Classifiers - cleaned data**
-Tijdens het werken met classifiers binnen dit project heb ik aan veel classifiers mee gewerkt. In de paper zijn de resultaten van deze classifiers te zien.
+Binnen het project heb ik individueel en in samenwerking met menig classifier gebouwd. Binnen de dataset waren er 4 categorieën die onderscheiden konden worden. De uitdaging was om een accuracy van 90% of hoger te halen. Vanaf  90% was het redelijk betrouwbaar voor het LUMC
 
 **Classifier 1 vs all**
-De eerste classifier die ik heb gemaakt in dit project is de één tegen de rest classifier, waar één categorie tegen de andere categorien vergeleken wordt. Dit was gedaan op sample niveau wat in de paper wordt uitgelegd. Het maken van de classifier is eerst gedaan met behulp van de tutorial van J. Vuurens. waarna ik het omgebouwd heb in SKlearn voor betere preformance. Het script wat gebruikt is voor deze classifier is omgebouwt tot een andere classifier, maar is te zien in cell 3 van dit script.
+De eerste classifier die ik heb gemaakt in dit project is de één tegen de rest classifier, waar één categorie tegen de andere categorieën vergeleken wordt. Dit was gedaan op sample niveau wat in de paper wordt uitgelegd. Het maken van de classifier is eerst gedaan met behulp van de tutorial van J. Vuurens. Waarna ik het omgebouwd heb in SKlearn voor betere performance. Het script wat gebruikt is voor deze classifier is omgebouwd tot een andere classifier, maar is te zien in cell 3 van dit script.
+
+**Classifier 11 t/m 22 (Category 1 vs 2 (True vs False))**
+Classifier 11 tot en met 22 heeft ons geholpen de data beter te begrijpen, met de resultaten van deze classifier (te vinden in de paper) hebben we gezien dat hoe groter het verschil tussen de categorieën, hoe preciseer we kunnen clasificeren. De classifier werkt door twee categorieën met elkaar te vergelijken, bijvoorbeeld categorie 1 met 2 (True vs False). Deze sample niveau classifier is samen met Luke gemaakt en is hier te vinden.
+
+**Classifier 26 t/m 49 (Category 1 vs 2 .MAX)**
+Classifier 26 tot en met 49 is de eerste poging tot een patiënt niveau classifier. Om van sample niveau classifiers af te stappen hadden we een manier nodig om parameters van een patiënt te maken. Als eerste patiënt classifier hebben we daarom gekozen om de maximale hoeken mee te nemen als waardes voor de classifier. Het idee hierachter was om de maximale beweging van de patiënt te meten, om te zien hoever hij zijn arm bijvoorbeeld omhoog kon bewegen. Daarna probeerde we de .ABS().MAX()
+
+Deze patiënt niveau classifier is samen met Luke gemaakt en is hier te vinden.
 
 **Classifier XYZ energie**
-De XYZ energie classifier onderscheid zich van de andere classifiers omdat ik bij deze classifier gebruik heb gemaakt van de oppervlakte berekeningen van mijn project genoten. Ik heb het in een classifier gedaan en heel veerl verschillende soorten combinatie geprobeerd.
+Als laatste heb ik de XYZ energie classifier gebouwd. Deze onderscheid zich van de andere classifiers omdat ik bij deze classifier gebruik heb gemaakt van de oppervlakte berekeningen van mijn project genoten. Ik heb het in een classifier gedaan en heel veel verschillende soorten combinatie geprobeerd.
 
 XYZ energie bij elkaar optellen 
 XYZ energie apart meegeven
@@ -103,19 +104,11 @@ X,Y energie (Z weglaten)
 
 Helaas was het resultaat van al deze varianten niet goed (<50%)
 
-**Classifier 11 t/m 22 (Category 1 vs 2 (True vs False))**
-Classifier 11 tot en met 22 heeft ons geholpen de data beter te begrijpen, met de resultaten van deze classifier (te vinden in de paper) hebben we gezien dat hoe groter het verschil tussen de categorien, hoe preciser we kunnen clasificeren. De classifier werkt door twee categorien met elkaar te vergelijken, bijvoorbeeld categorie 1 met 2 (True vs False). Deze sample niveau classifier is samen met Luke gemaakt en is hier te vinden.
-
-**Classifier 26 t/m 49 (Category 1 vs 2 .MAX)**
-Classifier 26 tot en met 49 is de eerste poging tot een patient niveau classifier. Om van sample niveau classifiers af te stappen hadden we een manier nodig om parameters van een patient te maken. Als eerste patient classifier hebebn we daarom gekozen om de absolute maximale hoeken mee te nemen als waardes voor de classifier. Het idee hierachter was om de maximale beweging van de patient te meten, om te zien hoever hij zijn arm bijvoorbeeld omhoog kon bewegen.
-
-Deze patient niveau classifier is samen met Luke gemaakt en is hier te vinden.
-
-
 ### Cleanen van de Data
 In zijn totaliteit moesten er 1500 oefeningen gecleaned worden. Dit hebben wij als groep gedaan. Het python script hiervoor is geschreven door Luke.
 
 In de laatste week bleek dat de apart gezette testset nog gecleaned moest worden. Dit heb ik voor mijn rekening genomen (circa 140 oefeningen extra)
+
 ### Overig
 Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschool. Tijdens deze borrel hebben wij aan andere onderwijzers uitgelegd wat het doel is van dit project en waar wij precies mee bezig zijn. Dit hebben wij met behulp van [deze poster](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Poster_CvB-borrel.pdf) uitgelegd die ik gemaakt heb met Kasper. Ik was er tijdens die borrel ook bij en heb aan veel geïnteresseerde docenten uitgelegd over ons project.
 
@@ -127,17 +120,15 @@ Iedere vrijdag dient er gepresenteerd te worden. Ik heb meegeholpen aan het make
 
 Deze heb ik onverwachts moeten opvangen in het kader van ziekte/afwezigheid. 
 
-
 ## 4.0 Reflectie
-Als ik terug kijk op de afgelopen 20 weken is de tijd snel gegaan. In het begin had ik nog enige twijfel bij deze minor. Dat kwam voornamelijk door het programmeer werk. Achteraf bleek dat de wiskunde erachter ingewikkelder was dan het programmeren zelf. 
+Als ik terugkijk op de afgelopen 20 weken is de tijd snel gegaan. In het begin had ik nog enige twijfel bij deze minor. Dat kwam voornamelijk door het programmeer werk. Achteraf bleek dat de wiskunde erachter ingewikkelder was dan het programmeren zelf. 
 `UITLEGGEN DAT DE PROJECT AANPAK ANDERS HAD GEMOETEN`
 Om terug te komen op de persoonlijke leerdoelen
 ### 1. Het leren programmeren in Python
 Dit doel heb ik naar mijn idee naar behoren gehaald. Het is niet dat ik de snelste/beste Python programmeur ben, maar als eerste programmeertaal waar ik kennis van heb mogen nemen kan ik data inlezen bewerken en analyseren.
 
 ### 2. Ervaring krijgen met het verwerken van 'Big Data'
-Wat ik hier voornamelijk van heb geleerd is dat het ingewikkelder is dan het lijkt. Met 'verwerken' bedoelde ik van nietzeggende data naar informatie. Ons gehele project stond daar in het kader van en ook dit doel is gehaald.
-
+Wat ik hier voornamelijk van heb geleerd is dat het ingewikkelder is dan het lijkt. Met 'verwerken' bedoelde ik van nietszeggende data naar informatie. Ons gehele project stond daar in het kader van en ook dit doel is gehaald.
 ### 3. De basis van Machine Learning begrijpen/toepassen
 De basis van machine learning was vanaf dag 1 lastig voor mij, laat staan het toepassen. Maar vlak voor de toets toen ik ervoor ging zitten zag ik het licht. Als ik het nog een keer over zou doen zal ik eerder in het traject de tijd nemen om dit te snappen dat zal veel tijd/stress besparen.
 ### 4. Meer technische kennis verkrijgen
