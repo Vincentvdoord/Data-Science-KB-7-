@@ -73,8 +73,7 @@ Naast de noodzakelijke Datacamp courses zijn er ook een aantal extra courses/cha
 Op Coursera zijn alle verplichte Coursera courses gevolgd. Enkel de verplichte courses en quizzes zijn gedaan omdat het vrij lastig was en behoorlijk wat theorie. Tevens was er niet meer nodig voor het project. Ook mijn persoonlijke doel 3 (De basis van Machine Learning begrijpen/toepassen) te behalen worden de Coursera courses gevolgt. Onderstaand een screenshots als bewijsvoering.
 
 <details><summary> Coursera Evidance (foto) 
-    <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Coursera%20Full%20Page%202.png?raw=true" alt="alt text">
-</details>
+    <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Coursera%20Full%20Page%202.png?raw=true" alt="alt text"></details>
 
 ### 2.3 Spark Assignments
 Tijdens ons project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 10 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
