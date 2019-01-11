@@ -104,7 +104,7 @@ Tijdens ons project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodza
 In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het project of waar ik een bijdrage aan geleverd heb. Tijdens het project heb ik zoveel mogelijk verschillende werkzaamheden uitgevoerd om zo mijn kennis te verbreden. 
 
 ### 3.1 Classifiers
-Binnen het project heb ik individueel en in samenwerking met menig classifier gebouwd. Binnen de dataset waren er 4 categorieën die onderscheiden konden worden. De uitdaging was om een accuracy van 90% of hoger te halen. Vanaf  90% was het redelijk betrouwbaar voor het LUMC.
+Binnen het project heb ik individueel en in samenwerking met menig classifier gebouwd. Binnen de dataset waren er 4 categorieën die onderscheiden konden worden. De uitdaging was om een accuracy van 90% of hoger te halen. Vanaf  90% was het redelijk betrouwbaar voor het LUMC. Alle resultaten van de classifiers staan onder het kopje 'Resultaten' in [ons paper](https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/paper_ortho_eyes.pdf)
 
 **Classifier 1 vs all**
 
