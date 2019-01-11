@@ -8,8 +8,9 @@ Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gere
   - [2.2 Coursera](#22-coursera)
   - [2.3 Spark Assignments](#23-spark-assignments)
   - [2.3 Jargon](#24-jargon)
-- [3.0 Gedurende het project](#30-gedurende-het-project)
-- [Reflectie](#reflectie)
+- [3.0 Gedurende het project](#30-gedurende-het-project
+  - [3.1 Classifiers](#31-classifiers)
+- [4.0 Reflectie](#40-reflectie)
 
 **Keuze onderbouwing**
 Ik volg de opleiding ICT (Business IT & Management) op de Haagse Hogeschool in Den Haag. Daar krijgen we vakken die te maken hebben met data (IT) en vakken die met bedrijfskunde te maken hebben (Business & Management). Naar mijn idee bevatte ik nog (te) weinig technische kennis. Ik wist dat deze minor daardoor ook extra zwaar voor mij zou zijn. Ik wist dat ik eraan moest trekken in de avonden door zou moeten gaan en er meer energie in moet steken dan de anderen. Toch heb ik voor deze minor gekozen en zal ik de komende 20 weken mijn best doen om er het beste van te maken en zoveel mogelijk te leren.  
