@@ -72,8 +72,8 @@ Naast de noodzakelijke Datacamp courses zijn er ook een aantal extra courses/cha
 ### 2.2 Coursera
 Op Coursera zijn alle verplichte Coursera courses gevolgd. Enkel de verplichte courses en quizzes zijn gedaan omdat het vrij lastig was en behoorlijk wat theorie. Tevens was er niet meer nodig voor het project. Ook mijn persoonlijke doel 3 (De basis van Machine Learning begrijpen/toepassen) te behalen worden de Coursera courses gevolgt. Onderstaand een screenshots als bewijsvoering.
 
-<details><summary> Coursera Evidance (foto) <img src="http://pngimg.com/uploads/exclamation_mark/exclamation_mark_PNG32.png" alt="alt text"></summary>
-  <https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Coursera%20Full%20Page%202.png"Coursera Voortgang">
+<details><summary> Coursera Evidance (foto) 
+    <https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Coursera%20Full%20Page%202.png" alt="alt text">
 </details>
 
 ### 2.3 Spark Assignments
