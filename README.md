@@ -42,8 +42,13 @@ Omdat ik redelijk ervaren ben met photoshop heb ik al het design werk opgepakt. 
 ### 1.4 Ortho Eyes opdracht
 Voordat specialisten een diagnose kunnen stellen bij een patient moeten de patienten in de praktijk meerdere oefeningeng uit te voeren om de conditie van de schouder te kunnen achter te halen. Als projectgroep willen wij onderzoeken of het mogelijk is om een diagnose te stellen op basis van de gegenereerde data. 
 
-De data die beschikbaar is, is van echte patiënten. Deze patiënten hebben 1 of meerdere oefeningen uitgevoerd. Als projectgroep hebben wij deze data ontvangen en geanalyseerd.
+De data die beschikbaar is, is van echte patiënten. Deze patiënten hebben 1 of meerdere oefeningen uitgevoerd. Als projectgroep hebben wij deze data ontvangen en geanalyseerd. 
 
+Onderstaand de aanpak van ons project, deze heb ik gemaakt.
+
+<details><summary> Aanpak (Afbeelding)</summary>
+  <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/aanpak%20DS%20ortho.png?raw=true" alt="alt text"></details>
+ 
 
 ## 2.0 Persoonlijke ontwikkeling
 Voor mij is binnen het project dit het belangrijkste. Ik wil zoveel mogelijk leren.
@@ -93,7 +98,7 @@ De eerste classifier die ik heb gemaakt in dit project is de één tegen de rest
 Classifier 11 tot en met 22 heeft ons geholpen de data beter te begrijpen, met de resultaten van deze classifier (te vinden in de paper) hebben we gezien dat hoe groter het verschil tussen de categorieën, hoe preciseer we kunnen clasificeren. De classifier werkt door twee categorieën met elkaar te vergelijken, bijvoorbeeld categorie 1 met 2 (True vs False). Deze sample niveau classifier is samen met Luke gemaakt en is hier te vinden.
 
 **Classifier 26 t/m 49 (Category 1 vs 2 .MAX)**
-Classifier 26 tot en met 49 is de eerste poging tot een patiënt niveau classifier. Om van sample niveau classifiers af te stappen hadden we een manier nodig om parameters van een patiënt te maken. Als eerste patiënt classifier hebben we daarom gekozen om de maximale hoeken mee te nemen als waardes voor de classifier. Het idee hierachter was om de maximale beweging van de patiënt te meten, om te zien hoever hij zijn arm bijvoorbeeld omhoog kon bewegen. Daarna probeerde we de .ABS().MAX()
+DezeClassifier 26 tot en met 49 is de eerste poging tot een patiënt niveau classifier. Om van sample niveau classifiers af te stappen hadden we een manier nodig om parameters van een patiënt te maken. Als eerste patiënt classifier hebben we daarom gekozen om de maximale hoeken mee te nemen als waardes voor de classifier. Het idee hierachter was om de maximale beweging van de patiënt te meten, om te zien hoever hij zijn arm bijvoorbeeld omhoog kon bewegen. Daarna probeerde we de .ABS().MAX()
 
 Deze patiënt niveau classifier is samen met Luke gemaakt en is hier te vinden.
 
@@ -125,6 +130,12 @@ Zoals te zien is in de bovenstaande afbeelding is de destbetreffende oefening 2 
   
 In de laatste week bleek dat de apart gezette testset nog gecleaned moest worden. Dit heb ik voor mijn rekening genomen (circa 140 oefeningen extra)
 
+### Visueel
+Na verloop van tijd had iedereen zoveel dingen gemaakt. Iedereen had in zijn mappen een x aantal scripts staan en we deden eigenlijk maar wat. Ik heb toen besloten om het gehele project te visualiseren. Met als belangrijkste uitgangspunten: Waar staan we nu?, Waar zijn we mee bezig?, Wat willen we nog bereiken?
+
+<details><summary> Project Visualisatie (Afbeelding)</summary>
+  <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Projectaanpak.png?raw=true" alt="alt text"></details>
+
 ### Overig
 Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschool. Tijdens deze borrel hebben wij aan andere onderwijzers uitgelegd wat het doel is van dit project en waar wij precies mee bezig zijn. Dit hebben wij met behulp van [deze poster](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Poster_CvB-borrel.pdf) uitgelegd die ik gemaakt heb met Kasper. Ik was er tijdens die borrel ook bij en heb aan veel geïnteresseerde docenten uitgelegd over ons project.
 
@@ -132,6 +143,8 @@ Dit is een impressie van onze 'presentatie' bij de CvB-borrel.
 
 <details><summary> CvB - borrel (Groepsfoto)</summary>
   <img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/cvb-borrel.jpg?raw=true"></details>
+  
+
 
 ## Presentaties
 Iedere vrijdag dient er gepresenteerd te worden. Ik heb meegeholpen aan het maken van elke presentatie, behalve die van week8. De weken dat ik daadwerkelijk gepresenteerd heb is week 3/6/11/16*
@@ -140,7 +153,8 @@ Deze heb ik onverwachts moeten opvangen in het kader van ziekte/afwezigheid.
 
 ## 4.0 Reflectie
 Als ik terugkijk op de afgelopen 20 weken is de tijd snel gegaan. In het begin had ik nog enige twijfel bij deze minor. Dat kwam voornamelijk door het programmeer werk. Achteraf bleek dat de wiskunde erachter ingewikkelder was dan het programmeren zelf. 
-`UITLEGGEN DAT DE PROJECT AANPAK ANDERS HAD GEMOETEN`
+
+Ook moest ik erg wennen aan de manier van werken. Vanuit mijn opleiding hebben we veel te maken gehad met projectmanagement maar nooit echt onderzoek gedaan op deze manier. Je kan heel moeilijk ver voor uit plannen want je weet niet precies wat er gaat gebeuren. Dat was wennen. 
 
 ### 4.1 Reflecteren op de leerdoelen
 Om terug te komen op de leerdoelen.
