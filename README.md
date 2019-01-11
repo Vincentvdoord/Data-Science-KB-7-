@@ -58,8 +58,9 @@ Super cleaned data - De super cleaned data is de door ons schoongemaakte cleaned
 
 Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch gebied, deze zijn hieronder te zien. Dit plaatje heb ik zelf gemaakt.
 
-<img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Ortho%20eyes.jpg" alt="alt text">
-
+<details><summary> Medisch Jargon (Afbeelding)</summary>
+  <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Ortho%20eyes.jpg" alt="alt text"></details>
+    
 >Thorax - Borstkas / Clavicula - Sleutelbeen / Scapula - Schouderblad / Humerus - Bovenarm / Olecranon - Elleboog
 
 ### 2.1 Datacamp
