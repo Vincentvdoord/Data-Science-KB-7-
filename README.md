@@ -14,11 +14,15 @@ Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gere
   - [2.3 Jargon](#24-jargon)
 - [3.0 Gedurende het project](#30-gedurende-het-project)
   - [3.1 Classifiers](#31-classifiers)
-  - [3.2 Cleanen van de data](#32-cleanen-van-de-data)
-  - [3.3 Presentaties](#33-presentaties)
+  - [3.2 Oefeningen vergelijken](#32-oefeningen-vergelijken)
+  - [3.3 Cleanen van de data](#33-cleanen-van-de-data)
+  - [3.4 Presentaties](#34-presentaties)
+  - [3.5 Overig](#35-overig)
 - [4.0 Reflectie](#40-reflectie)
 
 ## 1.0 De Introductie
+In dit hoofdstuk zullen allerlei globale zaken aanbod komen. Onder andere waarom ik voor deze minor heb gekozen en wat mijn rol was binnen dit project.
+
 ### 1.1 Keuze onderbouwing
 Ik volg de opleiding ICT (Business IT & Management) op de Haagse Hogeschool in Den Haag. Daar krijgen we vakken die te maken hebben met data (IT) en vakken die met bedrijfskunde te maken hebben (Business & Management). Naar mijn idee bevatte ik nog (te) weinig technische kennis. Ik wist dat deze minor daardoor ook extra zwaar voor mij zou zijn. Ik wist dat ik eraan moest trekken in de avonden door zou moeten gaan en er meer energie in moet steken dan de anderen. Toch heb ik voor deze minor gekozen en zal ik de komende 20 weken mijn best doen om er het beste van te maken en zoveel mogelijk te leren.  
 
@@ -113,13 +117,15 @@ X,Y energie (Z weglaten)
 
 Helaas was het resultaat van al deze varianten niet goed (<50%)
 
-### Oefeningen vergelijken
-Omdat categorie 1,2,3,4 
+### 3.2 Oefeningen vergelijken
+In alle categorieen zijn er oefeningen uitgevoerd maar ze hadden allerlei verschillende getallen. We wilde onderzoeken of een oefening 2 uit categorie4 hetzelfde is als een oefening2 uit categorie3. Als we dit hadden uitgezocht konden we een gerichtere classifier maken.
+
+Ik heb samen met Kasper dit script gemaakt. Die alle oefeningen uit verschillende categorieen naast elkaar zet. Zo konden we in grote lijnen zien of het dezelfde oefening is.
 
 <details><summary> Oefeningen vergelijken script (Screenshot)</summary>
   <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/%20Vergelijken%20van%20de%20oefeningen.png">"alt="alt text"></details>
 
-### Cleanen van de Data
+### 3.3 Cleanen van de Data
 In zijn totaliteit moesten er 1500 oefeningen gecleaned worden. Dit hebben wij als groep gedaan. Het python script hiervoor is geschreven door Luke. Ik had het idee hiervoor bedacht om het bestand te verwijderen als het was verwerkt en het ergens anders op te slaan. Hierdoor konden we met meerdere personen eraan werken en was het mogelijk om op een later moment te hervatten. 
 
 <details><summary> Cleanen van de data makkelijk voorbeeld (Screenshot)</summary>
@@ -132,26 +138,24 @@ Zoals te zien is in de bovenstaande afbeelding is de destbetreffende oefening 2 
   
 In de laatste week bleek dat de apart gezette testset nog gecleaned moest worden. Dit heb ik voor mijn rekening genomen (circa 140 oefeningen extra)
 
-### Visueel
+### 3.4 Visueel
 Na verloop van tijd had iedereen zoveel dingen gemaakt. Iedereen had in zijn mappen een x aantal scripts staan en we deden eigenlijk maar wat. Ik heb toen besloten om het gehele project te visualiseren. Met als belangrijkste uitgangspunten: Waar staan we nu?, Waar zijn we mee bezig?, Wat willen we nog bereiken?
 
 <details><summary> Project Visualisatie (Afbeelding)</summary>
   <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Projectaanpak.png?raw=true" alt="alt text"></details>
 
-### Overig
+## 3.5 Presentaties
+Iedere vrijdag dient er gepresenteerd te worden. Ik heb meegeholpen aan het maken van elke presentatie, behalve die van week8. De weken dat ik daadwerkelijk gepresenteerd heb is week 3/6/11/16*
+
+Deze heb ik onverwachts moeten opvangen in het kader van ziekte/afwezigheid. 
+
+### 3.6 Overig
 Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschool. Tijdens deze borrel hebben wij aan andere onderwijzers uitgelegd wat het doel is van dit project en waar wij precies mee bezig zijn. Dit hebben wij met behulp van [deze poster](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Poster_CvB-borrel.pdf) uitgelegd die ik gemaakt heb met Kasper. Ik was er tijdens die borrel ook bij en heb aan veel geïnteresseerde docenten uitgelegd over ons project.
 
 Dit is een impressie van onze 'presentatie' bij de CvB-borrel.
 
 <details><summary> CvB - borrel (Groepsfoto)</summary>
   <img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/cvb-borrel.jpg?raw=true"></details>
-  
-
-
-## Presentaties
-Iedere vrijdag dient er gepresenteerd te worden. Ik heb meegeholpen aan het maken van elke presentatie, behalve die van week8. De weken dat ik daadwerkelijk gepresenteerd heb is week 3/6/11/16*
-
-Deze heb ik onverwachts moeten opvangen in het kader van ziekte/afwezigheid. 
 
 ## 4.0 Reflectie
 Als ik terugkijk op de afgelopen 20 weken is de tijd snel gegaan. In het begin had ik nog enige twijfel bij deze minor. Dat kwam voornamelijk door het programmeer werk. Achteraf bleek dat de wiskunde erachter ingewikkelder was dan het programmeren zelf. 
