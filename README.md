@@ -57,9 +57,9 @@ Voor mij is binnen het project dit het belangrijkste. Ik wil zoveel mogelijk ler
 Tijdens ons onderzoek heb ik veel nieuwe begrippen geleerd. Onderstaand een opsomming van de begrippen die tijdens ons project aanbod kwamen.
 
 
-Raw/ruwe data - Ruwe sensor data met locatie en rotatie van de sensoren
-Cleaned data - Cleaned data is door het LUMC verwerkte ruwe data, in deze data zijn alle sensor locaties weg verwijderd data relatief van elkaar weergegeven d.m.v. hoeken
-Super cleaned data - De super cleaned data is de door ons schoongemaakte cleaned data, voornamelijk is het begin en eind weggehaald. Soms is de oefening in 2 delen gesplits als bleek dat de oefening 2 maal was uitgevoerd
+**Raw/ruwe data** - Ruwe sensor data met locatie en rotatie van de sensoren
+**Cleaned data** - Cleaned data is door het LUMC verwerkte ruwe data, in deze data zijn alle sensor locaties weg verwijderd data relatief van elkaar weergegeven d.m.v. hoeken
+**Super cleaned data** - De super cleaned data is de door ons schoongemaakte cleaned data, voornamelijk is het begin en eind weggehaald. Soms is de oefening in 2 delen gesplits als bleek dat de oefening 2 maal was uitgevoerd
 
 Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch gebied, deze zijn hieronder te zien. Dit plaatje heb ik zelf gemaakt.
 
