@@ -67,7 +67,7 @@ Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch g
 Om mijn persoonlijke doel 1 (Het leren programmeren in Python) te behalen is er vanaf dag 1 fanatiek gewerkt aan Datacamp. Binnen de gestelde tijd zijn alle noodzakelijke Datacamp courses afgerond.
 
 <details><summary> Datacamp Evidance (Screenshot)</summary>
-  <<img src="https://i.imgur.com/izapVDF.png" alt="alt text"></details>
+  <img src="https://i.imgur.com/izapVDF.png" alt="alt text"></details>
   
 Naast de noodzakelijke Datacamp courses zijn er ook een aantal extra courses/chapters gemaakt. Omdat ik het niet over mijn hart kon krijgen om een course voor de helft te maken (wat voldoende zou zijn). 
 
@@ -79,7 +79,6 @@ Op Coursera zijn alle verplichte Coursera courses gevolgd. Enkel de verplichte c
 
 ### 2.3 Spark Assignments
 Tijdens ons project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 10 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
-
 
 ## 3.0 Gedurende het project
 In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het project of waar ik een bijdrage aan geleverd heb. Tijdens het project heb ik zoveel mogelijk verschillende werkzaamheden uitgevoerd om zo mijn kennis te verbreden. 
@@ -107,16 +106,32 @@ X,Y energie (Z weglaten)
 
 Helaas was het resultaat van al deze varianten niet goed (<50%)
 
-### Cleanen van de Data
-In zijn totaliteit moesten er 1500 oefeningen gecleaned worden. Dit hebben wij als groep gedaan. Het python script hiervoor is geschreven door Luke.
+### Oefeningen vergelijken
+Omdat categorie 1,2,3,4 
 
+<details><summary> Oefeningen vergelijken script (Screenshot)</summary>
+  <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/%20Vergelijken%20van%20de%20oefeningen.png">"alt="alt text"></details>
+
+### Cleanen van de Data
+In zijn totaliteit moesten er 1500 oefeningen gecleaned worden. Dit hebben wij als groep gedaan. Het python script hiervoor is geschreven door Luke. Ik had het idee hiervoor bedacht om het bestand te verwijderen als het was verwerkt en het ergens anders op te slaan. Hierdoor konden we met meerdere personen eraan werken en was het mogelijk om op een later moment te hervatten. 
+
+<details><summary> Cleanen van de data makkelijk voorbeeld (Screenshot)</summary>
+  <img src="hhttps://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Datasplitter.png">"alt="alt text"></details>
+
+Zoals te zien is in de bovenstaande afbeelding is de destbetreffende oefening 2 maal uitgevoerd. Het was dan de bedoeling dat het midden werd bepaald en het begin en eind (ruis) werd verwijderd. Als alle 1500 oefeningen eruit zagen als bovenstaand was het makkelijk maar helaas zaten er ook ingewikkeldere oefeningen tussen
+
+<details><summary> Cleanen van de data moeilijk voorbeeld (Screenshot)</summary>
+  <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Datasplitter2.jpeg>"alt="alt text"></details>
+  
 In de laatste week bleek dat de apart gezette testset nog gecleaned moest worden. Dit heb ik voor mijn rekening genomen (circa 140 oefeningen extra)
 
 ### Overig
 Begin oktober was er een CvB-borrel van de faculteit IT&D op de Haagse Hogeschool. Tijdens deze borrel hebben wij aan andere onderwijzers uitgelegd wat het doel is van dit project en waar wij precies mee bezig zijn. Dit hebben wij met behulp van [deze poster](https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/Poster_CvB-borrel.pdf) uitgelegd die ik gemaakt heb met Kasper. Ik was er tijdens die borrel ook bij en heb aan veel geïnteresseerde docenten uitgelegd over ons project.
 
 Dit is een impressie van onze 'presentatie' bij de CvB-borrel.
-<img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/cvb-borrel.jpg?raw=true">
+
+<details><summary> CvB - borrel (Groepsfoto)</summary>
+  <img src="https://github.com/vdhoofdk/Data-Science-KB-74/blob/master/Other/cvb-borrel.jpg?raw=true"></details>
 
 ## Presentaties
 Iedere vrijdag dient er gepresenteerd te worden. Ik heb meegeholpen aan het maken van elke presentatie, behalve die van week8. De weken dat ik daadwerkelijk gepresenteerd heb is week 3/6/11/16*
@@ -126,13 +141,18 @@ Deze heb ik onverwachts moeten opvangen in het kader van ziekte/afwezigheid.
 ## 4.0 Reflectie
 Als ik terugkijk op de afgelopen 20 weken is de tijd snel gegaan. In het begin had ik nog enige twijfel bij deze minor. Dat kwam voornamelijk door het programmeer werk. Achteraf bleek dat de wiskunde erachter ingewikkelder was dan het programmeren zelf. 
 `UITLEGGEN DAT DE PROJECT AANPAK ANDERS HAD GEMOETEN`
-Om terug te komen op de persoonlijke leerdoelen
-### 1. Het leren programmeren in Python
+
+### 4.1 Reflecteren op de leerdoelen
+Om terug te komen op de leerdoelen.
+
+**1. Het leren programmeren in Python**
 Dit doel heb ik naar mijn idee naar behoren gehaald. Het is niet dat ik de snelste/beste Python programmeur ben, maar als eerste programmeertaal waar ik kennis van heb mogen nemen kan ik data inlezen bewerken en analyseren.
 
-### 2. Ervaring krijgen met het verwerken van 'Big Data'
+**2. Ervaring krijgen met het verwerken van 'Big Data'**
 Wat ik hier voornamelijk van heb geleerd is dat het ingewikkelder is dan het lijkt. Met 'verwerken' bedoelde ik van nietszeggende data naar informatie. Ons gehele project stond daar in het kader van en ook dit doel is gehaald.
-### 3. De basis van Machine Learning begrijpen/toepassen
+
+**3. De basis van Machine Learning begrijpen/toepassen**
 De basis van machine learning was vanaf dag 1 lastig voor mij, laat staan het toepassen. Maar vlak voor de toets toen ik ervoor ging zitten zag ik het licht. Als ik het nog een keer over zou doen zal ik eerder in het traject de tijd nemen om dit te snappen dat zal veel tijd/stress besparen.
-### 4. Meer technische kennis verkrijgen
+
+**4. Meer technische kennis verkrijgen**
 Als programmeren/jupyter servers/machine learning valt onder technische kennis dan is het zeker gelukt om mijn kennis te verbreden.
