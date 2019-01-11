@@ -48,24 +48,6 @@ De data die beschikbaar is, is van echte patiënten. Deze patiënten hebben 1 of
 ## 2.0 Persoonlijke ontwikkeling
 Voor mij is binnen het project dit het belangrijkste. Ik wil zoveel mogelijk leren.
 
-### 2.1 Datacamp
-Om mijn persoonlijke doel 1 (Het leren programmeren in Python) te behalen is er vanaf dag 1 fanatiek gewerkt aan Datacamp. Binnen de gestelde tijd zijn alle noodzakelijke Datacamp courses afgerond.
-
-<img src="https://i.imgur.com/izapVDF.png" alt="alt text">
-
-Naast de noodzakelijke Datacamp courses zijn er ook een aantal extra courses/chapters gemaakt. Omdat ik het niet over mijn hart kon krijgen om een course voor de helft te maken (wat voldoende zou zijn). 
-
-### 2.2 Coursera
-Op Coursera zijn alle verplichte Coursera courses gevolgd. Enkel de verplichte courses en quizzes zijn gedaan omdat het vrij lastig was en behoorlijk wat theorie. Tevens was er niet meer nodig voor het project. Ook mijn persoonlijke doel 3 (De basis van Machine Learning begrijpen/toepassen) te behalen worden de Coursera courses gevolgt. Onderstaand de screenshots als bewijsvoering.
-
-Week 1 [Linear Regression with One variable](AFBEELDING LINK)
-Week 2 [Linear Regression with Multiple Variables](AFBEELDING lINK)
-Week 3 [Logistic Regression & Regularization](AFBEELDING LINK)
-Week 6 [Advice for Applying Machine Learning](AFBEELDING LINK)
-
-### 2.3 Spark Assignments
-Tijdens ons project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 10 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
-
 ## 2.4 Jargon
 Tijdens ons onderzoek heb ik veel nieuwe begrippen geleerd. Onderstaand een opsomming van de begrippen die tijdens ons project aanbod kwamen.
 
@@ -78,11 +60,25 @@ Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch g
 
 <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Ortho%20eyes.jpg" alt="alt text">
 
-Thorax - Borstkas
-Clavicula - Sleutelbeen
-Scapula - Schouderblad
-Humerus - Bovenarm
-Olecranon - Elleboog
+>Thorax - Borstkas / Clavicula - Sleutelbeen / Scapula - Schouderblad / Humerus - Bovenarm / Olecranon - Elleboog
+
+### 2.1 Datacamp
+Om mijn persoonlijke doel 1 (Het leren programmeren in Python) te behalen is er vanaf dag 1 fanatiek gewerkt aan Datacamp. Binnen de gestelde tijd zijn alle noodzakelijke Datacamp courses afgerond.
+
+<img src="https://i.imgur.com/izapVDF.png" alt="alt text">
+
+Naast de noodzakelijke Datacamp courses zijn er ook een aantal extra courses/chapters gemaakt. Omdat ik het niet over mijn hart kon krijgen om een course voor de helft te maken (wat voldoende zou zijn). 
+
+### 2.2 Coursera
+Op Coursera zijn alle verplichte Coursera courses gevolgd. Enkel de verplichte courses en quizzes zijn gedaan omdat het vrij lastig was en behoorlijk wat theorie. Tevens was er niet meer nodig voor het project. Ook mijn persoonlijke doel 3 (De basis van Machine Learning begrijpen/toepassen) te behalen worden de Coursera courses gevolgt. Onderstaand een screenshots als bewijsvoering.
+
+<details><summary> Coursera Evidance (foto) <img src="http://pngimg.com/uploads/exclamation_mark/exclamation_mark_PNG32.png" alt="alt text"></summary>
+  <https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Coursera%20Full%20Page%202.png"Coursera Voortgang">
+</details>
+
+### 2.3 Spark Assignments
+Tijdens ons project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 10 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
+
 
 ## 3.0 Gedurende het project
 In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het project of waar ik een bijdrage aan geleverd heb. Tijdens het project heb ik zoveel mogelijk verschillende werkzaamheden uitgevoerd om zo mijn kennis te verbreden. 
