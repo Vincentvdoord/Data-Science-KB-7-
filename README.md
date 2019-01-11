@@ -16,8 +16,9 @@ Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gere
   - [3.1 Classifiers](#31-classifiers)
   - [3.2 Oefeningen vergelijken](#32-oefeningen-vergelijken)
   - [3.3 Cleanen van de data](#33-cleanen-van-de-data)
-  - [3.4 Presentaties](#34-presentaties)
-  - [3.5 Overig](#35-overig)
+  - [3.4 Huidige stand visueel](#34-huidige-stand-visueel)
+  - [3.5 Presentaties](#35-presentaties)
+  - [3.6 Overig](#36-overig)
 - [4.0 Reflectie](#40-reflectie)
 
 ## 1.0 De Introductie
@@ -138,7 +139,7 @@ Zoals te zien is in de bovenstaande afbeelding is de destbetreffende oefening 2 
   
 In de laatste week bleek dat de apart gezette testset nog gecleaned moest worden. Dit heb ik voor mijn rekening genomen (circa 140 oefeningen extra)
 
-### 3.4 Visueel
+### 3.4 Huidige stand visueel
 Na verloop van tijd had iedereen zoveel dingen gemaakt. Iedereen had in zijn mappen een x aantal scripts staan en we deden eigenlijk maar wat. Ik heb toen besloten om het gehele project te visualiseren. Met als belangrijkste uitgangspunten: Waar staan we nu?, Waar zijn we mee bezig?, Wat willen we nog bereiken?
 
 <details><summary> Project Visualisatie (Afbeelding)</summary>
