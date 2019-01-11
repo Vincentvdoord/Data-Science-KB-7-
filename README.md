@@ -121,7 +121,7 @@ In zijn totaliteit moesten er 1500 oefeningen gecleaned worden. Dit hebben wij a
 Zoals te zien is in de bovenstaande afbeelding is de destbetreffende oefening 2 maal uitgevoerd. Het was dan de bedoeling dat het midden werd bepaald en het begin en eind (ruis) werd verwijderd. Als alle 1500 oefeningen eruit zagen als bovenstaand was het makkelijk maar helaas zaten er ook ingewikkeldere oefeningen tussen
 
 <details><summary> Cleanen van de data moeilijk voorbeeld (Screenshot)</summary>
-  <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Datasplitter2.png>"alt="alt text"></details>
+  <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Datasplitter2.png?raw=true>"alt="alt text"></details>
   
 In de laatste week bleek dat de apart gezette testset nog gecleaned moest worden. Dit heb ik voor mijn rekening genomen (circa 140 oefeningen extra)
 
