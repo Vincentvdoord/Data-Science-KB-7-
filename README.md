@@ -10,6 +10,8 @@ Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gere
   - [2.3 Jargon](#24-jargon)
 - [3.0 Gedurende het project](#30-gedurende-het-project)
   - [3.1 Classifiers](#31-classifiers)
+  - [3.2 Cleanen van de data](#32-cleanen-van-de-data)
+  - [3.3 Presentaties](#33-presentaties)
 - [4.0 Reflectie](#40-reflectie)
 
 **Keuze onderbouwing**
