@@ -7,7 +7,8 @@ Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gere
   - [2.1 DataCamp](#21-datacamp)
   - [2.2 Coursera](#22-coursera)
   - [2.3 Spark Assignments](#23-spark-assignments)
-- [Tijdens het project](#tijdens-het-project)
+  - [2.3 Jargon(#24-jargon)
+- [3.0 Gedurende het project](#30-gedurende-het-project)
 - [Reflectie](#reflectie)
 
 **Keuze onderbouwing**
@@ -60,7 +61,7 @@ Week 6 [Advice for Applying Machine Learning](AFBEELDING LINK)
 ### 2.3 Spark Assignments
 Tijdens ons project/onderzoek (Ortho Eyes) was het gebruik van Spark niet noodzakelijk. Het runnen van geschreven notebooks duurde maximaal 10 minuten gezien er niet werd gewerkt met enorme hoeveelheden data. Omdat het runnen van deze notebooks al niet lang duurde zouden we niet heel veel voordeel kunnen halen uit het gebruik van Spark. Om deze reden hebben we de Spark Assignments dan ook niet gemaakt.
 
-## Jargon
+## 2.4 Jargon
 Tijdens ons onderzoek heb ik veel nieuwe begrippen geleerd. Onderstaand een opsomming van de begrippen die tijdens ons project aanbod kwamen.
 
 
