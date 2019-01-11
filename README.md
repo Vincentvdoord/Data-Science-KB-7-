@@ -116,7 +116,7 @@ Omdat categorie 1,2,3,4
 In zijn totaliteit moesten er 1500 oefeningen gecleaned worden. Dit hebben wij als groep gedaan. Het python script hiervoor is geschreven door Luke. Ik had het idee hiervoor bedacht om het bestand te verwijderen als het was verwerkt en het ergens anders op te slaan. Hierdoor konden we met meerdere personen eraan werken en was het mogelijk om op een later moment te hervatten. 
 
 <details><summary> Cleanen van de data makkelijk voorbeeld (Screenshot)</summary>
-  <img src="hhttps://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Datasplitter.png">"alt="alt text"></details>
+  <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/Datasplitter.png">"alt="alt text"></details>
 
 Zoals te zien is in de bovenstaande afbeelding is de destbetreffende oefening 2 maal uitgevoerd. Het was dan de bedoeling dat het midden werd bepaald en het begin en eind (ruis) werd verwijderd. Als alle 1500 oefeningen eruit zagen als bovenstaand was het makkelijk maar helaas zaten er ook ingewikkeldere oefeningen tussen
 
