@@ -58,7 +58,9 @@ Tijdens ons onderzoek heb ik veel nieuwe begrippen geleerd. Onderstaand een opso
 
 
 **Raw/ruwe data** - Ruwe sensor data met locatie en rotatie van de sensoren
+
 **Cleaned data** - Cleaned data is door het LUMC verwerkte ruwe data, in deze data zijn alle sensor locaties weg verwijderd data relatief van elkaar weergegeven d.m.v. hoeken
+
 **Super cleaned data** - De super cleaned data is de door ons schoongemaakte cleaned data, voornamelijk is het begin en eind weggehaald. Soms is de oefening in 2 delen gesplits als bleek dat de oefening 2 maal was uitgevoerd
 
 Naast ons project jargon zijn er ook termen die gebruikt worden om dit medisch gebied, deze zijn hieronder te zien. Dit plaatje heb ik zelf gemaakt.
@@ -92,10 +94,10 @@ In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het projec
 Binnen het project heb ik individueel en in samenwerking met menig classifier gebouwd. Binnen de dataset waren er 4 categorieën die onderscheiden konden worden. De uitdaging was om een accuracy van 90% of hoger te halen. Vanaf  90% was het redelijk betrouwbaar voor het LUMC
 
 **Classifier 1 vs all**
-De eerste classifier die ik heb gemaakt in dit project is de één tegen de rest classifier, waar één categorie tegen de andere categorieën vergeleken wordt. Dit was gedaan op sample niveau wat in de paper wordt uitgelegd. Het maken van de classifier is eerst gedaan met behulp van de tutorial van J. Vuurens. Waarna ik het omgebouwd heb in SKlearn voor betere performance. Het script wat gebruikt is voor deze classifier is omgebouwd tot een andere classifier, maar is te zien in cell 3 van dit script.
+De eerste classifier die ik heb gemaakt in dit project is de één tegen de rest classifier, waar één categorie tegen de andere categorieën vergeleken wordt. Dit was gedaan op sample niveau wat in de paper wordt uitgelegd. Het maken van de classifier is eerst gedaan met behulp van de tutorial van J. Vuurens. Waarna ik het omgebouwd heb in SKlearn voor betere performance. Met deze classifier konden we cat1 en cat4 onderscheiden van de rest. Maar 2 en 3 nog niet van elkaar.
 
-**Classifier 11 t/m 22 (Category 1 vs 2 (True vs False))**
-Classifier 11 tot en met 22 heeft ons geholpen de data beter te begrijpen, met de resultaten van deze classifier (te vinden in de paper) hebben we gezien dat hoe groter het verschil tussen de categorieën, hoe preciseer we kunnen clasificeren. De classifier werkt door twee categorieën met elkaar te vergelijken, bijvoorbeeld categorie 1 met 2 (True vs False). Deze sample niveau classifier is samen met Luke gemaakt en is hier te vinden.
+**Classifier Cat 2 vs 3**
+Omdat de eerste classifier nog geen goede resultatent gaf kregen we het advies in de wekelijke presentatie om een de classifier te versimpelen en enkel cat2 tegen cat3 uit te zetten. Met de resultaten van deze classifier (te vinden in de paper) hebben we gezien dat hoe groter het verschil tussen de categorieën, hoe preciseer we kunnen clasificeren. De classifier werkt door twee categorieën met elkaar te vergelijken, bijvoorbeeld categorie 1 met 2 (True vs False). Deze sample niveau classifier is samen met Luke gemaakt en is hier te vinden.
 
 **Classifier 26 t/m 49 (Category 1 vs 2 .MAX)**
 DezeClassifier 26 tot en met 49 is de eerste poging tot een patiënt niveau classifier. Om van sample niveau classifiers af te stappen hadden we een manier nodig om parameters van een patiënt te maken. Als eerste patiënt classifier hebben we daarom gekozen om de maximale hoeken mee te nemen als waardes voor de classifier. Het idee hierachter was om de maximale beweging van de patiënt te meten, om te zien hoever hij zijn arm bijvoorbeeld omhoog kon bewegen. Daarna probeerde we de .ABS().MAX()
