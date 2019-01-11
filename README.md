@@ -8,7 +8,7 @@ Dit is het Github portfolio van Vincent van den Oord (15073041). Hierin zal gere
   - [2.2 Coursera](#22-coursera)
   - [2.3 Spark Assignments](#23-spark-assignments)
   - [2.3 Jargon](#24-jargon)
-- [3.0 Gedurende het project](#30-gedurende-het-project
+- [3.0 Gedurende het project](#30-gedurende-het-project)
   - [3.1 Classifiers](#31-classifiers)
 - [4.0 Reflectie](#40-reflectie)
 
