@@ -30,10 +30,7 @@ Normaliter neem ik de leidende rol in projecten. Omdat ik dusdanig weinig kennis
 - Kasper: goed in literatuuronderzoek/schrijven van paper, neemt hij grotendeels voor zijn rekening
 - Vincent(ik): coördinerende rol en bijspringen waar nodig
 
-Omdat ik redelijk ervaren ben met photoshop heb ik al het design werk opgepakt. Het presentatie template ontworpen en allerlei afbeeldingen gemaakt die relevant zijn voor ons project. Deze zullen geheid aan bod komen in mijn portfolio.
-
- **Trello**
- 
+Omdat ik redelijk ervaren ben met photoshop heb ik al het design werk opgepakt. Het presentatie template ontworpen en allerlei afbeeldingen gemaakt die relevant zijn voor ons project. Deze zullen geheid aan bod komen in mijn portfolio. 
 
 ## 1. Intro Ortho Eyes
 Voordat specialisten een diagnose kunnen stellen bij een patient moeten de patienten in de praktijk meerdere oefeningeng uit te voeren om de conditie van de schouder te kunnen achter te halen. Als projectgroep willen wij onderzoeken of het mogelijk is om een diagnose te stellen op basis van de gegenereerde data. 
@@ -83,7 +80,7 @@ Olecranon - Elleboog
 ## 3.0 Gedurende het project
 In dit hoofdstuk is staat alles beschreven wat ik gedaan hebt tijdens het project of waar ik een bijdrage aan geleverd heb. Tijdens het project heb ik zoveel mogelijk verschillende werkzaamheden uitgevoerd om zo mijn kennis te verbreden. 
 
-### Classifiers
+### 3.1 Classifiers
 Binnen het project heb ik individueel en in samenwerking met menig classifier gebouwd. Binnen de dataset waren er 4 categorieën die onderscheiden konden worden. De uitdaging was om een accuracy van 90% of hoger te halen. Vanaf  90% was het redelijk betrouwbaar voor het LUMC
 
 **Classifier 1 vs all**
