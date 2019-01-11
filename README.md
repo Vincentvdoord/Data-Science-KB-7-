@@ -150,6 +150,8 @@ Ik heb samen met Kasper dit script gemaakt. Die alle oefeningen uit verschillend
 
 <details><summary> Oefeningen vergelijken script (Screenshot)</summary>
   <img src="https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Afbeeldingen/%20Vergelijken%20van%20de%20oefeningen.png">"alt="alt text"></details>
+  
+Het script is hier te vinden. Het was vrij lastig om 4 tabellen naast elkaar te krijgen, maar dat was uiteindelijk gelukt. [Zoek de verschillen](https://github.com/Vincentvdoord/Data-Science-KB-74/blob/master/Scripts/Zoek%20de%20verschillen%20v2.1%20-%20luke.ipynb)
 
 ### 3.3 Cleanen van de Data
 In zijn totaliteit moesten er 1500 oefeningen gecleaned worden. Dit hebben wij als groep gedaan. Het python script hiervoor is geschreven door Luke. Ik had het idee hiervoor bedacht om het bestand te verwijderen als het was verwerkt en het ergens anders op te slaan. Hierdoor konden we met meerdere personen eraan werken en was het mogelijk om op een later moment te hervatten. 
